@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * Integrated-Masters in Mathematics,National Institute of Science Education and Research, Bhubaneswar, India, 2021-present
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Experience
 ======
