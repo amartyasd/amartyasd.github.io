@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Integrated-Masters in Mathematics,National Institute of Science Education and Research, Bhubaneswar, India, 2021-present
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Directed Reading Project on Crossroads of HoTT and Infinity Category theory (Advisor:- Dr Ulrik Buchholtz , University of Nottingham)(ongoing)
+  The goal of the project currently is understanding Mike Shulman's paper titled "All (∞,1)-toposes have strict univalent universes".
+  I'm currently reading Egbert Rijke's notes on HoTT, Emily Riehl's Categorical Homotopy Theory and some other of Emily's notes under the guidance of Prof. Dr. Buchholtz .
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Other Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022
+  Participated in ∞-cateogories Reading Group led by Dr. Morgan Rogers 
+* 2022
+  Participating in Oberseminar: Tempered cohomology and equivariant elliptic cohomology , organized by Marc Hoyois and Denis Nardin  (online)
+* 2022
+  Participating in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organized by Yuri Manin and Gaetan Borot (online)
+* 2022
+  Participating in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
+  
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Yet to be populated 
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Yet to be populated 
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
