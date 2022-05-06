@@ -14,3 +14,5 @@ Apart from these there are also really ambitious projects and ventures that I wi
 As, I've just begun my mathematical journey formally, I've maintained a rather broad and open mindset to different mathematical areas. (I believe after all there are infinitely many things in the mathematical universe that can interest us) 
 
 Aside from my primary pre-occupations and interested, I'm also interested in Logic and Philosophy.
+
+DISCLAIMER- It's a site under progress.
