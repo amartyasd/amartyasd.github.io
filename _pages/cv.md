@@ -16,7 +16,7 @@ Education
 Experience
 ======
 * Directed Reading Project(Advisor: - Dr Ulrik Buchholtz , University of Nottingham)(ongoing)
-  The goal of the project currently is using the formal language of HoTT to reason internally to (oo,1)-toposes following work by Mike Shulman. I'm reading Shulman's paper titles "All (∞,1)-toposes have strict univalent universes".
+  The goal of the project currently is using the formal language of HoTT to reason internally to (oo,1)-toposes following work by Mike Shulman. I'm reading Shulman's paper titled "All (∞,1)-toposes have strict univalent universes".
   I'm currently reading Egbert Rijke's notes on HoTT, Emily Riehl's Categorical Homotopy Theory and some other of Emily's notes under the guidance of Prof. Dr. Buchholtz.
 
   
@@ -30,7 +30,7 @@ Other Activities
   Participating in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organized by Yuri Manin and Gaetan Borot (online)
 * 2022
   Participating in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
-* 2022 
+
 
 
 Awards and Honours
