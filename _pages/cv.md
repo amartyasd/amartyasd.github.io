@@ -30,17 +30,17 @@ Other Activities
   Participating in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organized by Yuri Manin and Gaetan Borot (online)
 * 2022
   Participating in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
+* 2022
+  Participating in Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry (MPI Bonn/Fields Institute)
 
+  
+  
 
 
 Awards and Honours
 ======
-*  Awarded the DISHA fellowship by the Department of Atomic Energy (DAE), Government of India, for pursuing the Integrated Masters program, after qualifying the NEST exam
- 
-Publications
-======
-Yet to be populated 
-  
+*  DISHA fellowship awarded by the Department of Atomic Energy (DAE), Government of India, for pursuing the Integrated Masters program at NISER(2021-2026)
+
 Talks
 ======
 Yet to be populated 
