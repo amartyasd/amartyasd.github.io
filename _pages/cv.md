@@ -31,7 +31,7 @@ Other Activities
 * 2022
   Participating in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
 * 2022
-  Participating in Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry (MPI Bonn/Fields Institute)
+  Participated in Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry (MPI Bonn/Fields Institute)
 
   
   
