@@ -25,11 +25,11 @@ Other Activities
 * 2022
   Participated in ∞-categories Reading Group led by Dr. Morgan Rogers 
 * 2022
-  Participating in Oberseminar: Tempered cohomology and equivariant elliptic cohomology , organized by Marc Hoyois and Denis Nardin  (online)
+  Participated in Oberseminar: Tempered cohomology and equivariant elliptic cohomology , organized by Marc Hoyois and Denis Nardin  (online)
 * 2022
-  Participating in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organized by Yuri Manin and Gaetan Borot (online)
+  Participated in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organized by Yuri Manin and Gaetan Borot (online)
 * 2022
-  Participating in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
+  Participated in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
 * 2022
   Participated in Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry (MPI Bonn/Fields Institute)
 
