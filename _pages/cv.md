@@ -33,7 +33,7 @@ Other Activities
 * Spring 2022
   Participated in Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry (MPI Bonn/Fields Institute)
 * Fall 2022
-  Organizing a [Higher Category Theory reading group](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html) with [Vaibhav Sutrave](https://vbvstrv.github.io/info.html) , Logan Hyslop and [Varun (Rooney) Malladi](https://varunmalladi.github.io/).
+  Organizing a [Higher Category Theory reading seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html) with [Vaibhav Sutrave](https://vbvstrv.github.io/info.html) , Logan Hyslop and [Varun (Rooney) Malladi](https://varunmalladi.github.io/).
   
 
 
