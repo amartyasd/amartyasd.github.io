@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misellaneous stuff"
+title: "Miscellaneous stuff"
 permalink: /miscc/
 author_profile: true
 redirect_from:
