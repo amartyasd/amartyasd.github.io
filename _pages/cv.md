@@ -17,7 +17,7 @@ Experience
 ======
 * Directed Reading Project(Advisor: - [Dr Ulrik Buchholtz](https://ulrikbuchholtz.dk/) , University of Nottingham)(ongoing)
   The goal of the project currently is using the formal language of HoTT to reason internally to (∞, 1)-topoi following work by Mike Shulman. I'm interested in non-presentable cases, to be specific, I'm interested in elementary (∞, 1)-topoi semantics of HoTT. I'm reading Mike Shulman's paper "[All (∞,1)-toposes have strict univalent universes](https://arxiv.org/pdf/1904.07004.pdf) " and Nima Rasekh's paper "[FILTER QUOTIENTS AND NON-PRESENTABLE (∞, 1)-TOPOSES](https://arxiv.org/pdf/2001.10088.pdf)"
-  I'm using Cisinski's Higher Categories and Homotopical Algebra Riehl's Categorical Homotopy Theory, and Rezk's Higher Topos theory notes.
+  I'm using Cisinski's Higher Categories and Homotopical Algebra,Riehl's Categorical Homotopy Theory, and Rezk's Higher Topos theory notes.
 
   
 Other Activities
@@ -33,6 +33,8 @@ Other Activities
 * Spring 2022
   Participated in [Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry](http://www.fields.utoronto.ca/activities/21-22/homotopy) (MPI Bonn/Fields Institute)
 * Fall 2022
+  Participated in the Summer School on Chromatic Homotopy Theory and Higher (Infinity-Categorical) Algebra.[link](https://iwoat.github.io/)  
+* Fall 2022
   Organizing a [Higher Category Theory reading seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html) with [Vaibhav Sutrave](https://vbvstrv.github.io/info.html) , Logan Hyslop and [Varun (Rooney) Malladi](https://varunmalladi.github.io/).
   
 
@@ -43,5 +45,5 @@ Awards and Honours
 
 Talks
 ======
-Yet to be populated 
+* [Nerves,∞-categories and the Boardman Vogt Construction.](https://drive.google.com/file/d/1LkixeRpvA0YGhipyZCRtwVAjglb-bNYu/view?usp=sharing)
   
