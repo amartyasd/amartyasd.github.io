@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello ! I'm an undergraduate student at the National Institute of Science Education and Research, Bhubaneswar, India.
 
-I've a wide range of interests.I'm currently interested in (stable) Homotopy Theory , Higher category theory, Model category theory, Higher Topos Theory and Homotopy Type Theory, all of which I'm constantly learning, which is needless to say. I'm also interested in Applied Category Theory, but I would say it's mostly unexplored territory so far.
+I've a wide range of interests.I'm currently interested in (stable) Homotopy Theory , Higher (Model) category theory, Higher Topos Theory, Homotopy Type Theory and Categorical Logic (recently), all of which I'm constantly learning, which is needless to say. I'm also interested in Applied Category Theory, but I would say it's mostly unexplored territory so far.
 Apart from these there are other ambitious projects and ventures that I wish to take up when my schedule permits. Currently they are the subjects of Equivariant cohomology theory of group actions on  manifolds , Higher Algebra (especially Brave New Algebra), Higher Operads, and Higher K-theory.
 
 
