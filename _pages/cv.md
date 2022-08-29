@@ -35,7 +35,7 @@ Other Activities
 * Fall 2022
   Participated in the Summer School on Chromatic Homotopy Theory and Higher (Infinity-Categorical) Algebra.[link](https://iwoat.github.io/)  
 * Fall 2022
-  Organizing a [Higher Category Theory reading seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html) with [Vaibhav Sutrave](https://vbvstrv.github.io/info.html) , Logan Hyslop and [Varun (Rooney) Malladi](https://varunmalladi.github.io/).
+  Organizing a [Higher Category Theory reading seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html) with [Vaibhav Sutrave](https://vbvstrv.github.io/info.html) , [Logan Hyslop](https://loganhyslop.github.io/) and [Varun (Rooney) Malladi](https://varunmalladi.github.io/).
   
 
 
