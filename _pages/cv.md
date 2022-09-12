@@ -72,4 +72,7 @@ Awards and Honours
 Talks
 ======
 * [Nerves,∞-categories and the Boardman Vogt Construction.](https://drive.google.com/file/d/1LkixeRpvA0YGhipyZCRtwVAjglb-bNYu/view?usp=sharing)
+* I'll be giving a talk in [CacS 2022](https://categories-and-companions.github.io/)
+  
+  
   
