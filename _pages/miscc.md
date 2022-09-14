@@ -20,3 +20,6 @@ Here are the links to the homepages of some of my friends and buddies.
 
 [Logan Hyslop](https://loganhyslop.github.io/)
 ======
+
+Math Links
+======
