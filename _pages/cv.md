@@ -21,7 +21,7 @@ As textbooks I used Cisinski's Higher Categories and Homotopical Algebra, Riehl'
 Towards the end of the project I got interested in Realizablity Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is work in progress.
 
 * Directed Reading Project [Fall 2022] 
-I'll be working this fall on a reading project as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program.   
+I'll be working this fall on a reading project as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/).  
 
   
 Other Activities
