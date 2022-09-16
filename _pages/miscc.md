@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneousstuff
 ---
 
-#  Here are  links to the homepages of some of my friends.
+#  Here are  links to the webpages of some of my friends.
   
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [Logan Hyslop](https://loganhyslop.github.io/) 
