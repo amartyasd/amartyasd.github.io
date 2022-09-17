@@ -73,6 +73,7 @@ Talks
 ======
 * [Nerves,∞-categories and the Boardman Vogt Construction.](https://drive.google.com/file/d/1LkixeRpvA0YGhipyZCRtwVAjglb-bNYu/view?usp=sharing)
 * I'll be giving a talk in [CacS 2022](https://categories-and-companions.github.io/)
+* [Kan Fibrations and the Kan-Quillen Model Structure](https://drive.google.com/file/d/1bR-mnbPwR3OfwHlQPXMv3QSvZN-J33Ga/view?usp=sharing)
   
   
   
