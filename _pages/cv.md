@@ -21,7 +21,7 @@ As textbooks I used Cisinski's Higher Categories and Homotopical Algebra, Riehl'
 Towards the end of the project I got interested in Realizablity Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is work in progress.
 
 * Directed Reading Project [Fall 2022] 
-I'll be working this fall on a reading project as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/).  
+I'll be working this fall on a reading project on Higher Algebra as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). 
 
   
 Other Activities
@@ -74,6 +74,7 @@ Talks
 * [Nerves,∞-categories and the Boardman Vogt Construction.](https://drive.google.com/file/d/1LkixeRpvA0YGhipyZCRtwVAjglb-bNYu/view?usp=sharing): At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [Kan Fibrations and the Kan-Quillen Model Structure](https://drive.google.com/file/d/1bR-mnbPwR3OfwHlQPXMv3QSvZN-J33Ga/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [Non presentable higher topos semantics of HoTT and a proposed realizability model](https://drive.google.com/file/d/1FcrdDdc4Xeq4hIdKcUnaZ_e01fYOLQDh/view?usp=sharing): At [CaCS 2022](https://categories-and-companions.github.io/).
+* [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
   
   
   
