@@ -35,8 +35,7 @@ Other Activities
 * Spring 2022
   Participated in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
 * Summer Break 2022
-  Participated in The 5th International Conference on Applied Category Theory[link]([
-](https://msp.cis.strath.ac.uk/act2022/index.html).    
+  Participated in The 5th International Conference on Applied Category Theory[link](https://msp.cis.strath.ac.uk/act2022/index.html).    
 * Summer Break 2022
   Participated in [Twinned Conference on Homotopy Theory with Applications to Arithmetic and Geometry](http://www.fields.utoronto.ca/activities/21-22/homotopy) (MPI Bonn/Fields Institute)[
 ](https://msp.cis.strath.ac.uk/act2022/index.html)
