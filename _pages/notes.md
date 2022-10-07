@@ -18,6 +18,6 @@ Notes, talks and Writings
 
 Publications and Preprints
 ======
-To be populated soon
+* A Realizability Model of HoTT (work in progress with [Ulrik Buchholtz](https://ulrikbuchholtz.dk/))
 
 
