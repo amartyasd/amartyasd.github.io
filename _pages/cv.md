@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Integrated-Masters in Mathematics, National Institute of Science Education and Research, Bhubaneswar, India, (2021-present)
+* Integrated-Masters in Mathematics with a minor in Computer Science, National Institute of Science Education and Research, Bhubaneswar, India, (2021-present)
 
 Experience
 ======
@@ -21,7 +21,7 @@ As textbooks I used Cisinski's Higher Categories and Homotopical Algebra, Riehl'
 Towards the end of the project I got interested in Realizablity Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is work in progress.
 
 * Directed Reading Project [Fall 2022] 
-I'll be working this fall on a reading project on Higher Algebra as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). 
+I'll be working this fall on a project on Brave New Algebra(aka Higher Algebra of E_∞ rings) as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I'm working primarily with [Mazel-Gee's notes](https://etale.site/teaching/w21/math-128-lecture-notes.pdf#page66). Look [here](http://www.math.uchicago.edu/~may/PAPERS/WorldsNWU.pdf) for a nice survey. 
 
   
 Other Activities
@@ -56,7 +56,10 @@ Other Activities
 * Fall 2022
   Participating in the event [Equivariant Bordism Theory and Applications](https://sites.google.com/view/equivariant-bordism-and-applic/inicio).  
 * Fall 2022
-  Participating in the [Young Hom Seminar](https://younghomseminar.github.io/) organized by [Julie Rasmusen](https://warwick.ac.uk/fac/sci/maths/people/staff/rasmusen/) and [Torgeir Aambø](https://folk.ntnu.no/torgeaam/).
+  Participating in the [Young Hom Seminar](https://younghomseminar.github.io/) organized by [Julie Rasmusen](https://warwick.ac.uk/fac/sci/maths/people/staff/rasmusen/) and [Torgeir Aambø](https://folk.ntnu.no/torgeaam/). 
+* Fall 2022
+  Participating in [European Quantum Algebra Lectures (EQuAL) seminar series](https://sites.google.com/view/equalseminar/home).  
+  
 
 
   
