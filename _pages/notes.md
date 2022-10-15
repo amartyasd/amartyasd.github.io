@@ -15,6 +15,7 @@ Notes, talks and Writings
 * [Kan FIbrations and the Kan-Quillen Model Structure](https://drive.google.com/file/d/1bR-mnbPwR3OfwHlQPXMv3QSvZN-J33Ga/view?usp=sharing)
 * [Non Presentable Higher Topos Semantics of HoTT and a proposed realizability model](https://drive.google.com/file/d/1FcrdDdc4Xeq4hIdKcUnaZ_e01fYOLQDh/view?usp=sharing) 
 * [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing)
+* [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing)
 
 Publications and Preprints
 ======
