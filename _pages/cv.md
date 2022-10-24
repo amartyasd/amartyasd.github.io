@@ -58,7 +58,13 @@ Other Activities
 * Fall 2022
   Participating in the [Young Hom Seminar](https://younghomseminar.github.io/) organized by [Julie Rasmusen](https://warwick.ac.uk/fac/sci/maths/people/staff/rasmusen/) and [Torgeir Aambø](https://folk.ntnu.no/torgeaam/). 
 * Fall 2022
-  Participating in [European Quantum Algebra Lectures (EQuAL) seminar series](https://sites.google.com/view/equalseminar/home).  
+  Participating in [European Quantum Algebra Lectures (EQuAL) seminar series](https://sites.google.com/view/equalseminar/home).
+* Fall 2022
+  Virtual participation in the [Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"](https://www.mpim-bonn.mpg.de/node/11136)  
+  
+  
+  
+  
   
 
 
@@ -78,6 +84,9 @@ Talks
 * [Non presentable higher topos semantics of HoTT and a proposed realizability model](https://drive.google.com/file/d/1FcrdDdc4Xeq4hIdKcUnaZ_e01fYOLQDh/view?usp=sharing): At [CaCS 2022](https://categories-and-companions.github.io/).
 * [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
+* I'll be giving a talk in Category Theory Octoberfest 2022[link](https://richardblute.ca/octoberfest-2022/)
+
+
   
   
   
