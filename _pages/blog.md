@@ -1,11 +1,11 @@
 
 ---
-permalink: /
-title: "(Higher)Categorical Musings"
-excerpt: "Blog"
+layout: archive
+title: "Blog"
+permalink: /blog/
 author_profile: true
-redirect_from: 
-  - /blog/
-  - /blog.html
+redirect_from:
+  - /blog
 ---
+
 This part of the site is currently work in progress.
