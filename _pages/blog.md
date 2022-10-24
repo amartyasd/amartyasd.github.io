@@ -5,7 +5,7 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 redirect_from:
-  - /blog
+  - /blogg
 ---
 
 This part of the site is currently work in progress.
