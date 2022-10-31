@@ -84,7 +84,7 @@ Talks
 * [Non presentable higher topos semantics of HoTT and a proposed realizability model](https://drive.google.com/file/d/1FcrdDdc4Xeq4hIdKcUnaZ_e01fYOLQDh/view?usp=sharing): At [CaCS 2022](https://categories-and-companions.github.io/).
 * [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
-* I'll be giving a talk in Category Theory Octoberfest 2022[link](https://richardblute.ca/octoberfest-2022/)
+* [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing): At [Category Theory Octoberfest 2022](https://richardblute.ca/octoberfest-2022/)
 
 
   
