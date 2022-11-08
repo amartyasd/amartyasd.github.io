@@ -9,4 +9,4 @@ redirect_from:
 
 Chromatic Nullstellensatz Seminar 
 ======
-/chromatic/
+[c](/chromatic/)
