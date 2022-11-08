@@ -7,7 +7,6 @@ redirect_from:
   - /chromatic
 ---
 
-Chromatic Homotopy Theory Reading Seminar
 ======
 
 This is the website for the reading seminar "Chromatic Nullstellensatz" running on Fall 2022-23.
