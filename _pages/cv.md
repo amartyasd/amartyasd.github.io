@@ -21,7 +21,7 @@ As textbooks I used Cisinski's Higher Categories and Homotopical Algebra, Riehl'
 Towards the end of the project I got interested in Realizablity Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is work in progress.
 
 * Directed Reading Project [Fall 2022] 
-I'll be working this fall on a project on Brave New Algebra(aka Higher Algebra of E_∞ rings) as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I'm working primarily with [Mazel-Gee's notes](https://etale.site/teaching/w21/math-128-lecture-notes.pdf#page66). Look [here](http://www.math.uchicago.edu/~may/PAPERS/WorldsNWU.pdf) for a nice survey. 
+I'll be working this fall on a project on 'Generalised Thom spectra' as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I'm working primarily with [Schwede's notes](https://www.math.uni-bonn.de/people/schwede/equivariant.pdf), Adam's blue book and Barnes-Roitzheim's book for the elementary stuff. I'm specifically interested in Ando-Blumberg-Gepner-Hopkins-Lurie's geometric R-module Thom spectra, and some THH computations.
 
   
 Other Activities
@@ -84,7 +84,8 @@ Talks
 * [Non presentable higher topos semantics of HoTT and a proposed realizability model](https://drive.google.com/file/d/1FcrdDdc4Xeq4hIdKcUnaZ_e01fYOLQDh/view?usp=sharing): At [CaCS 2022](https://categories-and-companions.github.io/).
 * [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
-* [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing): At [Category Theory Octoberfest 2022](https://richardblute.ca/octoberfest-2022/)
+* [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing): At [Category Theory Octoberfest 2022](https://richardblute.ca/octoberfest-2022/).
+* [Homotopy Groups of Kan Complexes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view?usp=sharing): At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 
 
   
