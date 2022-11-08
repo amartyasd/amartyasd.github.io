@@ -7,5 +7,6 @@ redirect_from:
   - /seminars
 ---
 
-Chromatic Nullstellensatz Seminar (/chromatic/)
+Chromatic Nullstellensatz Seminar 
 ======
+/chromatic/
