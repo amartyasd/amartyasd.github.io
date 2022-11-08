@@ -17,6 +17,7 @@ Notes, talks and Writings
 * [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing)
 * [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing)
 * [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing)
+* [Homotopy Grpups of Kan Complezes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view)
 
 Publications and Preprints
 ======
