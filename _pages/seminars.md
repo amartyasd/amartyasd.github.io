@@ -1,9 +1,8 @@
-
 ---
 layout: archive
-title: "Working/Reading Seminars"
+title: "Reading/Working Seminars"
 permalink: /seminars/
 author_profile: true
 redirect_from:
-  - /working/reading Seminars
+  - /seminars
 ---
