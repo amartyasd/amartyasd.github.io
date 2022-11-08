@@ -7,6 +7,12 @@ redirect_from:
   - /seminars
 ---
 
-Chromatic Nullstellensatz Seminar 
+This page contains link of working/reading groups I'm organising or co-organising.
+
+[Chromatic Nullstellensatz Seminar](/chromatic/) 
 ======
-[c](/chromatic/)
+
+[Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html)
+======
+
+
