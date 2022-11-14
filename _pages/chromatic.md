@@ -14,5 +14,10 @@ This is the website for the reading seminar "Chromatic Nullstellensatz" running 
 The goal of this seminar is to understand Burklund-Schlank-Yuan's Chromatic Nullstellensatz and redshift phenomena for algebraic K-theory of E∞-rings.
 
 
+We're set to begin this year probably starting from November 27th.
+
+References
+
+
 
 
