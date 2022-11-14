@@ -17,7 +17,9 @@ The goal of this seminar is to understand Burklund-Schlank-Yuan's Chromatic Null
 We're set to begin this year probably starting from November 27th.
 
 References
-
+======
+| [Chromatic Homotopy Theory](https://ncatlab.org/nlab/files/LurieChromaticHomotopyTheory.pdf)  | Jacob lurie  |
+| [Formal Geometry and Bordism Operations](https://drive.google.com/file/d/15jz_aNbom1k-nOOjZ0LXky22b7WPmp0V/view?usp=sharing)   | Eric Peterson|
 
 
 
