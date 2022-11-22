@@ -50,9 +50,9 @@ Other Activities
 * Fall 2022
   Organizing a hybrid Algebraic Topology reading seminar at my institution.
 * Fall 2022 
-  Participating in [Ninth Symposium on Compositional Structures (SYCO 9)](https://www.cl.cam.ac.uk/events/syco/9/).
+  Participated in [Ninth Symposium on Compositional Structures (SYCO 9)](https://www.cl.cam.ac.uk/events/syco/9/).
 * Fall 2022
-  Participating in BIRS workshop on [Cobordisms, Strings, and Thom Spectra](http://www.birs.ca/events/2022/5-day-workshops/22w5045/participants).
+  Participated in BIRS workshop on [Cobordisms, Strings, and Thom Spectra](http://www.birs.ca/events/2022/5-day-workshops/22w5045/participants).
 * Fall 2022
   Participating in the event [Equivariant Bordism Theory and Applications](https://sites.google.com/view/equivariant-bordism-and-applic/inicio).  
 * Fall 2022
@@ -60,7 +60,11 @@ Other Activities
 * Fall 2022
   Participating in [European Quantum Algebra Lectures (EQuAL) seminar series](https://sites.google.com/view/equalseminar/home).
 * Fall 2022
-  Virtual participation in the [Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"](https://www.mpim-bonn.mpg.de/node/11136)  
+  Virtual participation in the [Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"](https://www.mpim-bonn.mpg.de/node/11136) 
+* Fall 2022
+  Participated in [Colloque Bénabou](https://indico.math.cnrs.fr/event/8771/)
+  
+  
   
   
   
