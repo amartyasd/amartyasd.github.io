@@ -16,10 +16,10 @@ The goal of this seminar is to understand Burklund-Schlank-Yuan's Chromatic Null
 
 We're set to begin this year probably starting from November 27th. 
 
-| Date  | Title of the talk ! Speaker | Notes and Video | 
-| ------------- | ------------- | ------------- | -------------|
-| November 27 | | | |
-| | | |
+Date  | Title of the talk ! Speaker | Notes and Video 
+--- | --- | --- | --- 
+November 27 | | | 
+  
 
 References
 ======
