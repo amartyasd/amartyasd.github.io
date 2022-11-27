@@ -19,8 +19,9 @@ Notes, talks and Writings
 * [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing)
 * [Homotopy Groups of Kan Complezes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view)
 
-Publications and Preprints
+Publications, Preprints and Works in Progress
 ======
 * A Realizability Model of HoTT (work in progress with [Ulrik Buchholtz](https://ulrikbuchholtz.dk/))
+* Generalised N_∞ operads (in progress)
 
 
