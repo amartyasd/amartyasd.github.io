@@ -18,6 +18,7 @@ Notes, talks and Writings
 * [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing)
 * [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing)
 * [Homotopy Groups of Kan Complezes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view)
+* [A 2-categorical Quillen's Theorem A (Part 1)](https://drive.google.com/file/d/1Q9CK_wS4zmyV_bJulorNu073WdD1hMqt/view?usp=sharing)
 
 Publications, Preprints and Works in Progress
 ======
