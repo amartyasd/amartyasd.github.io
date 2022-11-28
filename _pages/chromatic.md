@@ -28,6 +28,8 @@ References
 
 |   |  |
 | ------------- | ------------- |
+|NILPOTENCE AND PERIODICITY IN STABLE HOMOTOPY THEORY | Douglas C. Ravenel| 
 | [Chromatic Homotopy Theory](https://ncatlab.org/nlab/files/LurieChromaticHomotopyTheory.pdf)  | Jacob Lurie  |
 | [Formal Geometry and Bordism Operations](https://drive.google.com/file/d/15jz_aNbom1k-nOOjZ0LXky22b7WPmp0V/view?usp=sharing) | Eric Peterson |
+
 
