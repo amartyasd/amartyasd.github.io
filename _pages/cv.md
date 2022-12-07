@@ -67,6 +67,10 @@ Other Activities
   Virtual participation in the [Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"](https://www.mpim-bonn.mpg.de/node/11136) 
 * Fall 2022
   Participated in [Colloque Bénabou](https://indico.math.cnrs.fr/event/8771/)
+* Fall 2022
+  Participated in [Virtual Double Categories Workshop](https://bryceclarke.github.io/virtual-double-categories-workshop/)
+  
+  
   
   
   
