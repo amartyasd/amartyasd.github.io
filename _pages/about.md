@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello ! I'm an undergraduate student at the National Institute of Science Education and Research, Bhubaneswar, India.
 
-I've a wide range of interests. I'm currently interested in (stable) Homotopy Theory , Higher (Model) category theory, Higher Algebra, Higher Topos Theory, Homotopy Type Theory and Categorical Logic, all of which I'm constantly learning. I've also recently been intersted in Higher Operads, topological modular forms and some chromatic stuff (chromatic redshift to be specific). Apart from these I also find Applied Category Theory interesting.
+I've a wide range of interests. I'm currently interested in (stable) Homotopy Theory , Higher (Model) category theory, Higher Algebra, Higher Topos Theory, Homotopy Type Theory and Categorical Logic, all of which I'm constantly learning. I've also recently been intersted in Higher Operads, topological modular forms and some chromatic stuff (chromatic redshift to be specific). Apart from these I also find Applied Category Theory and Topological Data Analysis(TDA) interesting.
 
 Apart from these there are other ambitious projects and ventures that I wish to take up when my schedule permits. Currently they are the subjects of Equivariant cohomology theory of group actions on  manifolds ,Equivariant Bordism theories ,Higher THH, and Higher K-theory.
 
