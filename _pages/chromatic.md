@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-This is the website for the reading seminar "Chromatic Nullstellensatz" running on Fall 2022-23. There's a Discord server for the group for whose link please contact me if you're interested. 
+This is the website for the reading seminar "Chromatic Nullstellensatz" running on Fall 22-Spring 23. There's a Discord server for the group for whose link please contact me if you're interested. 
 
 The goal of this seminar is to understand Burklund-Schlank-Yuan's Chromatic Nullstellensatz and redshift phenomena for algebraic K-theory of E∞-rings.
 
