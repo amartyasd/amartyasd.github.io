@@ -17,6 +17,7 @@ The goal of this seminar is to understand Burklund-Schlank-Yuan's Chromatic Null
 Date  | Title of the talk | Speaker | Notes and Video 
 --- | --- | --- | --- 
 *November 27* | An Introduction to Spectra and Localisation | Amartya | [Video](https://www.youtube.com/watch?v=JIJNax67DL8),[Notes](https://drive.google.com/file/d/16rI4UJBx6TPsgc8Q8wu6eb6aDOlPNYsv/view?usp=sharing)  
+*December 18* | Complex and Morava K-theories | | |
   
 
 References
