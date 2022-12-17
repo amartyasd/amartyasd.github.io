@@ -25,3 +25,6 @@ Some math Links
 * [nLab](https://ncatlab.org/nlab/show/HomePage)
 * [Kerodon](https://kerodon.net/)
 * [Stacks Project](https://stacks.math.columbia.edu/)
+* [eCHT](https://s.wayne.edu/echt/)
+* [Mark Hovey's Problem List](https://www-users.cse.umn.edu/~tlawson/hovey/)
+* [Doug Ravenel's archives](https://people.math.rochester.edu/faculty/doug/papers.html)
