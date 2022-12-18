@@ -91,14 +91,15 @@ Awards and Honours
 
 Talks
 ======
-* [Nerves,∞-categories and the Boardman Vogt Construction.](https://drive.google.com/file/d/1LkixeRpvA0YGhipyZCRtwVAjglb-bNYu/view?usp=sharing): At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
-* [Kan Fibrations and the Kan-Quillen Model Structure](https://drive.google.com/file/d/1bR-mnbPwR3OfwHlQPXMv3QSvZN-J33Ga/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [Nerves,∞-categories and the Boardman Vogt Construction.](https://drive.google.com/file/d/1LkixeRpvA0YGhipyZCRtwVAjglb-bNYu/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [Kan Fibrations and the Kan-Quillen Model Structure](https://drive.google.com/file/d/1bR-mnbPwR3OfwHlQPXMv3QSvZN-J33Ga/view?usp=sharing):  At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [Non presentable higher topos semantics of HoTT and a proposed realizability model](https://drive.google.com/file/d/1FcrdDdc4Xeq4hIdKcUnaZ_e01fYOLQDh/view?usp=sharing): At [CaCS 2022](https://categories-and-companions.github.io/).
-* [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing):  At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [The Joyal Model Structure](https://drive.google.com/file/d/1Qsks2N2L9joute6OM2I5DJNnl1y73D93/view?usp=sharing):  At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [The Henry Model Structure](https://drive.google.com/file/d/1ToeAj5GSAUGfljKF8uEQMwzJHHuqFaXt/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
 * [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing): At [Category Theory Octoberfest 2022](https://richardblute.ca/octoberfest-2022/).
-* [Homotopy Groups of Kan Complexes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view?usp=sharing): At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
-* [A 2-categorical Quillen's Theorem A (Part I)](https://drive.google.com/file/d/1Q9CK_wS4zmyV_bJulorNu073WdD1hMqt/view?usp=sharing): At the [Higher Category Theory Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [Homotopy Groups of Kan Complexes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [A 2-categorical Quillen's Theorem A (Part I)](https://drive.google.com/file/d/1Q9CK_wS4zmyV_bJulorNu073WdD1hMqt/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [A 2-categorical Quillen's Theorem A (Part 2)](https://drive.google.com/file/d/17723TfYQZC5MTjnkIYU4n5DNKNLfTJJq/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 
 
   
