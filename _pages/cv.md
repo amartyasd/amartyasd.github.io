@@ -99,7 +99,7 @@ Talks
 * [A (function) realizability model of HoTT](https://drive.google.com/file/d/1YC9CEapm412EDVRTlT_CndBzMdiVe4Yk/view?usp=sharing): At [Category Theory Octoberfest 2022](https://richardblute.ca/octoberfest-2022/).
 * [Homotopy Groups of Kan Complexes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [A 2-categorical Quillen's Theorem A (Part I)](https://drive.google.com/file/d/1Q9CK_wS4zmyV_bJulorNu073WdD1hMqt/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
-* [A 2-categorical Quillen's Theorem A (Part 2)](https://drive.google.com/file/d/17723TfYQZC5MTjnkIYU4n5DNKNLfTJJq/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [A 2-categorical Quillen's Theorem A (Part 2)](https://drive.google.com/file/d/1SKIoQfsIRR7mddpWB9SmLymuzh8EcWrD/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 
 
   
