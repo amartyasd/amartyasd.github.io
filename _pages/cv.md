@@ -33,11 +33,11 @@ Other Activities
 * Spring 2022
   Participated in ∞-categories Reading Group in led by Dr. Morgan Rogers 
 * Spring 2022
-  Participated in Oberseminar: Tempered cohomology and equivariant elliptic cohomology , organized by Marc Hoyois and Denis Nardin  (online)
+  Participated in Oberseminar: Tempered cohomology and equivariant elliptic cohomology , organised by Marc Hoyois and Denis Nardin  (online)
 * Spring 2022
-  Participated in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organized by Yuri Manin and Gaetan Borot (online)
+  Participated in Algebra, Geometry and Physics seminar (MPIM Bonn/HU Berlin), organised by Yuri Manin and Gaetan Borot (online)
 * Spring 2022
-  Participated in Paris algebra seminar organized by Bernard Keller, David Hernandez,Sophie Marie-Genoud
+  Participated in Paris algebra seminar organised by Bernard Keller, David Hernandez,Sophie Marie-Genoud
 * Summer Break 2022
   Participated in The 5th International Conference on Applied Category Theory[link](https://msp.cis.strath.ac.uk/act2022/index.html).    
 * Summer Break 2022
@@ -52,13 +52,13 @@ Other Activities
 * Fall 2022
   Participating in [Abstract Homotopy Theory and Applications Seminar](https://sites.google.com/view/homotopy-basics-seminar/english-page/fall-2022) organized by         [Grisha Taroyan](https://www.grishataroyan.org/home).
 * Fall 2022
-  Organizing a hybrid Algebraic Topology reading seminar at my institution.
+  Organised a hybrid Algebraic Topology reading seminar at my institution.
 * Fall 2022 
   Participated in [Ninth Symposium on Compositional Structures (SYCO 9)](https://www.cl.cam.ac.uk/events/syco/9/).
 * Fall 2022
   Participated in BIRS workshop on [Cobordisms, Strings, and Thom Spectra](http://www.birs.ca/events/2022/5-day-workshops/22w5045/participants).
 * Fall 2022
-  Participating in the event [Equivariant Bordism Theory and Applications](https://sites.google.com/view/equivariant-bordism-and-applic/inicio).  
+  Participated in the event [Equivariant Bordism Theory and Applications](https://sites.google.com/view/equivariant-bordism-and-applic/inicio).  
 * Fall 2022
   Participating in the [Young Hom Seminar](https://younghomseminar.github.io/) organized by [Julie Rasmusen](https://warwick.ac.uk/fac/sci/maths/people/staff/rasmusen/) and [Torgeir Aambø](https://folk.ntnu.no/torgeaam/). 
 * Fall 2022
@@ -69,7 +69,9 @@ Other Activities
   Participated in [Colloque Bénabou](https://indico.math.cnrs.fr/event/8771/)
 * Fall 2022
   Participated in [Virtual Double Categories Workshop](https://bryceclarke.github.io/virtual-double-categories-workshop/)
-  
+* Fall 2022
+  Participated in [Topology 22](https://sites.google.com/view/topology22/schedule) organised by Prof. B. L. Sharma Higher Mathematics Trust.
+*   
   
   
   
