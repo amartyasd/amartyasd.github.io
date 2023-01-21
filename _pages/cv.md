@@ -71,8 +71,10 @@ Other Activities
   Participated in [Virtual Double Categories Workshop](https://bryceclarke.github.io/virtual-double-categories-workshop/)
 * Fall 2022
   Participated in [Topology 22](https://sites.google.com/view/topology22/schedule) organised by Prof. B. L. Sharma Higher Mathematics Trust.
-*   
-  
+* Summer 2023
+  Participating in [eCHT Reading Seminar on the Adams spectral sequence for tmf](https://s.wayne.edu/echt/echt-reading-seminars/echt-reading-seminar-on-the-adams-spectral-sequence-for-topological-modular-forms-winter-2023/)
+* Summer 2023 
+  Participating in [2023 Quantum Winter School](https://www.qubitbyqubit.org/winter-school)
   
   
   
@@ -102,6 +104,7 @@ Talks
 * [Homotopy Groups of Kan Complexes and Serre's Long Exact Sequence of a fibration](https://drive.google.com/file/d/1N4OmYi9kKxxp3yTdp6jlWkKGHLX0M1ru/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [A 2-categorical Quillen's Theorem A (Part I)](https://drive.google.com/file/d/1Q9CK_wS4zmyV_bJulorNu073WdD1hMqt/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [A 2-categorical Quillen's Theorem A (Part 2)](https://drive.google.com/file/d/1SKIoQfsIRR7mddpWB9SmLymuzh8EcWrD/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
+* [Lazard's Theorem and Complex Oriented Cohomology Theories](https://drive.google.com/file/d/1nRWe3kIDLRyfBLc-1YtQwgjq6rGH6sEJ/view?usp=sharing)
 
 
   
