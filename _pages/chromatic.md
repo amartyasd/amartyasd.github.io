@@ -21,7 +21,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *December 18* | Stack of Formal Groups and Height| Grigory| [Video](https://www.youtube.com/watch?v=4MdMwJeO8D0), [Notes](https://drive.google.com/file/d/1MKlISZCRIGMUNl4MCxBGYjhU_mf3E76n/view?usp=sharing) |
 *January 21* | Lazard's Theorem and Complex Orientable Cohomology Theories | Amartya | 
 *January 28* | MU and Complex Orientations, and Homology of MU | Rushil | 
-*Februarr 4* | The Adams Spectral Sequence for MU | Grigory | 
+*February 4* | The Adams Spectral Sequence for MU | Grigory | 
 *February 11* | Formal Groups and heights | Amartya |
 *February 18* | Stratification of the Moduli stack of Formal Groups | Logan |
   
