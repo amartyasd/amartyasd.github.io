@@ -21,6 +21,8 @@ Notes, talks and Writings
 * [A 2-categorical Quillen's Theorem A (Part 1)](https://drive.google.com/file/d/1Q9CK_wS4zmyV_bJulorNu073WdD1hMqt/view?usp=sharing)
 * [A 2-categorical Quillen's Theorem A (Part 2)](https://drive.google.com/file/d/1SKIoQfsIRR7mddpWB9SmLymuzh8EcWrD/view?usp=sharing)
 * [An intro to Thom Spectra and Thom spectra as Orthogonal spectra](https://drive.google.com/file/d/13ozEYHPImnu_vVMqReXxPba31aSU55Vs/view?usp=sharing)
+* [Lazard's Theorem and Complex Oriented Cohomology Theories](https://drive.google.com/file/d/1nRWe3kIDLRyfBLc-1YtQwgjq6rGH6sEJ/view?usp=share_link)
+* [Flatness over M_FG and Landweber Exactness](https://drive.google.com/file/d/1_uktkPN_5FljbzNEgdNMuF0F823xXYGn/view?usp=sharing)
 
 Publications, Preprints and Works in Progress
 ======
