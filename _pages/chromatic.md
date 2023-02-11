@@ -21,9 +21,9 @@ Date  | Title of the talk | Speaker | Notes and Video
 *December 18* | Stack of Formal Groups and Height| Grigory| [Video](https://www.youtube.com/watch?v=4MdMwJeO8D0), [Notes](https://drive.google.com/file/d/1MKlISZCRIGMUNl4MCxBGYjhU_mf3E76n/view?usp=sharing) |
 *January 21* | Lazard's Theorem and Complex Oriented Cohomology Theories | Amartya | [Video](https://www.youtube.com/watch?v=SQhgwEyIsjw), [Notes](https://drive.google.com/file/d/1nRWe3kIDLRyfBLc-1YtQwgjq6rGH6sEJ/view?usp=sharing) 
 *January 28* | MU and Complex Orientations| Rushil | [Video](https://youtu.be/L2p7V91GUzU), [Notes](https://drive.google.com/file/d/1tm4yMe0GiOVdrkwT9bEiVEydisKiDylz/view?usp=sharing)
-*February 4* | The Adams Spectral Sequence for MU | Grigory | 
-*February 11* | Formal Groups and heights | Amartya |
-*February 18* | Stratification of the Moduli stack of Formal Groups | Logan |
+*February 4* | The Adams Spectral Sequence for MU | Grigory | [Notes](https://drive.google.com/file/d/1hPKvfmohot5j2buNAiqQCBhaPQg891cm/view?usp=share_link), [Video](https://www.youtube.com/watch?v=RE7qouC3Vko)
+*February 11* | Flatness over M_FG and Landweber Exactness | Amartya | [Notes](https://drive.google.com/file/d/1_uktkPN_5FljbzNEgdNMuF0F823xXYGn/view?usp=share_link), [Video](https://www.youtube.com/watch?v=y40ukwOH8rQ)
+*February 18* |  |  |
   
 
 References
