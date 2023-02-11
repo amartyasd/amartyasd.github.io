@@ -106,6 +106,7 @@ Talks
 * [A 2-categorical Quillen's Theorem A (Part 2)](https://drive.google.com/file/d/1SKIoQfsIRR7mddpWB9SmLymuzh8EcWrD/view?usp=sharing): At the [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html).
 * [An Introduction to Spectra and Localisation](https://drive.google.com/file/d/16rI4UJBx6TPsgc8Q8wu6eb6aDOlPNYsv/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 * [Lazard's Theorem and Complex Oriented Cohomology Theories](https://drive.google.com/file/d/1nRWe3kIDLRyfBLc-1YtQwgjq6rGH6sEJ/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
+* [Flatness over M_FG and Landweber Exactness](https://drive.google.com/file/d/1_uktkPN_5FljbzNEgdNMuF0F823xXYGn/view?usp=share_link): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 
 
   
