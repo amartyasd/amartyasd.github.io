@@ -25,7 +25,7 @@ As textbooks I used Cisinski's Higher Categories and Homotopical Algebra, Riehl'
 Towards the end of the project I got interested in Realizablity Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is work in progress.
 
 * Directed Reading Project [Fall 2022] 
-I'll be working this fall on a project on 'Generalised Thom spectra' as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I'm working primarily with [Schwede's notes](https://www.math.uni-bonn.de/people/schwede/equivariant.pdf), Adam's blue book and Barnes-Roitzheim's book for the elementary stuff. I'm specifically interested in Ando-Blumberg-Gepner-Hopkins-Lurie's geometric R-module Thom spectra, and some THH computations.
+In fall 2022, I worked on a project on 'Generalised Thom spectra' as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I primarily worked with [Schwede's notes](https://www.math.uni-bonn.de/people/schwede/equivariant.pdf), Adam's blue book, Barnes-Roitzheim's book for the elementary stuff, and the [Ando-Blumberg-Gepner-Hopkins-Rezk paper](https://arxiv.org/abs/1403.4325). To be more specific I worked with Ando-Blumberg-Gepner-Hopkins-Lurie's geometric R-module Thom spectra, and did some Algebraic K-theory and THH calculations. The list of goals of the project was pretty long which is why there are aspects of this project that we still like to talk and think about.
 
   
 Other Activities
@@ -72,9 +72,13 @@ Other Activities
 * Fall 2022
   Participated in [Topology 22](https://sites.google.com/view/topology22/schedule) organised by Prof. B. L. Sharma Higher Mathematics Trust.
 * Summer 2023
+  Organising the [Chromatic Nullstellensatz seminar](https://amartyasd.github.io/chromatic/)
+* Summer 2023 
   Participating in [eCHT Reading Seminar on the Adams spectral sequence for tmf](https://s.wayne.edu/echt/echt-reading-seminars/echt-reading-seminar-on-the-adams-spectral-sequence-for-topological-modular-forms-winter-2023/)
 * Summer 2023 
   Participating in [2023 Quantum Winter School](https://www.qubitbyqubit.org/winter-school)
+*   
+  
   
   
   
@@ -107,6 +111,7 @@ Talks
 * [An Introduction to Spectra and Localisation](https://drive.google.com/file/d/16rI4UJBx6TPsgc8Q8wu6eb6aDOlPNYsv/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 * [Lazard's Theorem and Complex Oriented Cohomology Theories](https://drive.google.com/file/d/1nRWe3kIDLRyfBLc-1YtQwgjq6rGH6sEJ/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 * [Flatness over M_FG and Landweber Exactness](https://drive.google.com/file/d/1_uktkPN_5FljbzNEgdNMuF0F823xXYGn/view?usp=share_link): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
+
 
 
   
