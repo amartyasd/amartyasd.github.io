@@ -9,9 +9,10 @@ redirect_from:
 
 #  Here are  links to the webpages of some of my friends.
   
-* [Grisha Taroyan](https://www.grishataroyan.org/home)
+* [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
+* [Mikhail Kornev](https://magisterlud.github.io/)
 * [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 
