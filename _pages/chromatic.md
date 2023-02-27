@@ -23,7 +23,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *January 28* | MU and Complex Orientations| Rushil | [Video](https://youtu.be/L2p7V91GUzU), [Notes](https://drive.google.com/file/d/1tm4yMe0GiOVdrkwT9bEiVEydisKiDylz/view?usp=sharing)
 *February 4* | The Adams Spectral Sequence for MU | Grigory | [Notes](https://drive.google.com/file/d/1hPKvfmohot5j2buNAiqQCBhaPQg891cm/view?usp=share_link), [Video](https://www.youtube.com/watch?v=RE7qouC3Vko)
 *February 11* | Flatness over M_FG and Landweber Exactness | Amartya | [Notes](https://drive.google.com/file/d/1_uktkPN_5FljbzNEgdNMuF0F823xXYGn/view?usp=share_link), [Video](https://www.youtube.com/watch?v=y40ukwOH8rQ)
-*February 25* | Morava Stabiliser Groups and Bousfield Localisation  | Logan | [Video](https://youtu.be/arfbks7jtT4)
+*February 25* | Morava Stabiliser Groups and Bousfield Localisation  | Logan | [Video](https://youtu.be/arfbks7jtT4), [Notes](https://drive.google.com/file/d/1Nl74SLszs4Cmy6WcmOB7E22Auy2EzaMb/view?usp=sharing)
   
 
 References
