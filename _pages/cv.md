@@ -111,6 +111,10 @@ Talks
 * [An Introduction to Spectra and Localisation](https://drive.google.com/file/d/16rI4UJBx6TPsgc8Q8wu6eb6aDOlPNYsv/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 * [Lazard's Theorem and Complex Oriented Cohomology Theories](https://drive.google.com/file/d/1nRWe3kIDLRyfBLc-1YtQwgjq6rGH6sEJ/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 * [Flatness over M_FG and Landweber Exactness](https://drive.google.com/file/d/1_uktkPN_5FljbzNEgdNMuF0F823xXYGn/view?usp=share_link): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
+* [Elementary ∞-topoi. Why should the topologist care?](https://drive.google.com/file/d/18hZMJlem4cRgXstaSG4tNuI3QncJ4Bvg/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
+* [Lubin-Tate Theory](https://drive.google.com/file/d/1P6ASGzK8YAZ3ctX5bke6ByGG_qxmIU3o/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
+* [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 1)](https://drive.google.com/file/d/1zpyCDYA5hMyCii1-vvyO7r6p-8P-wV7D/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
+* [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 2)](https://drive.google.com/file/d/1nJ3rKtwH9Y8AFrn9u6DFis3svEwTF6o4/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
 
 
 
