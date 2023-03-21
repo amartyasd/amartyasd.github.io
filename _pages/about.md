@@ -19,3 +19,5 @@ Aside from my primary pre-occupations and interests, I'm also interested in Phil
 
 
 DISCLAIMER- It's a website under progress.
+
+<a href="https://info.flagcounter.com/VgVX"><img src="https://s01.flagcounter.com/count/VgVX/bg_FF5959/txt_000000/border_52ABCC/columns_1/maxflags_5/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
