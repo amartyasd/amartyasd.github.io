@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneousstuff
 ---
 
-#  Here are  links to the webpages of some of my friends.
+#  Here are  links to the webpages of some of my friends and mentors.
   
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
