@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Here's my most recent [CV](https://drive.google.com/file/d/1YAIRYSOZg7vwaD337ioz5Qsv92Tn3fnC/view?usp=sharing)
+Here's my most recent [CV](https://drive.google.com/file/d/1lXNj28hdaKnccbDiwWdTO66ulQXCYjCy/view?usp=sharing)
 
 
 Education
@@ -76,7 +76,7 @@ Other Activities
 * Summer 2023 
   Participating in [eCHT Reading Seminar on the Adams spectral sequence for tmf](https://s.wayne.edu/echt/echt-reading-seminars/echt-reading-seminar-on-the-adams-spectral-sequence-for-topological-modular-forms-winter-2023/)
 * Summer 2023 
-  Participating in [2023 Quantum Winter School](https://www.qubitbyqubit.org/winter-school)
+  Participated in [2023 Quantum Winter School](https://www.qubitbyqubit.org/winter-school)
 *   
   
   
@@ -115,6 +115,7 @@ Talks
 * [Lubin-Tate Theory](https://drive.google.com/file/d/1P6ASGzK8YAZ3ctX5bke6ByGG_qxmIU3o/view?usp=sharing): At the [Chromatic Nullstellensatz Seminar](https://amartyasd.github.io/chromatic/)
 * [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 1)](https://drive.google.com/file/d/1zpyCDYA5hMyCii1-vvyO7r6p-8P-wV7D/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
 * [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 2)](https://drive.google.com/file/d/1nJ3rKtwH9Y8AFrn9u6DFis3svEwTF6o4/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps)
+* [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 3)](https://drive.google.com/file/d/1WikX3N8iy6_Qmfsn8-AUdVigzC-3ZgP8/view?usp=sharing): At the [Abstract Homotopy Theory and Applications Seminar](https://researchseminars.org/seminar/HomotopyTheoryAndApps) 
 
 
 
