@@ -13,8 +13,10 @@ redirect_from:
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
+* [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
 * [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
+
 
 
 
@@ -29,3 +31,4 @@ Some math Links
 * [eCHT](https://s.wayne.edu/echt/)
 * [Mark Hovey's Problem List](https://www-users.cse.umn.edu/~tlawson/hovey/)
 * [Doug Ravenel's archives](https://people.math.rochester.edu/faculty/doug/papers.html)
+* [Torgeir's Blog](https://torgeiraamboe.github.io/)
