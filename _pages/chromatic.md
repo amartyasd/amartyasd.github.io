@@ -26,6 +26,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *February 25* | Morava Stabiliser Groups and Bousfield Localisation  | Logan | [Video](https://youtu.be/arfbks7jtT4), [Notes](https://drive.google.com/file/d/1Nl74SLszs4Cmy6WcmOB7E22Auy2EzaMb/view?usp=sharing)
 *March 5* | Lubin-Tate Theory | Amartya | [Video](https://youtu.be/B7RwhKk0nUk), [Notes](https://drive.google.com/file/d/1P6ASGzK8YAZ3ctX5bke6ByGG_qxmIU3o/view?usp=sharing)
 *March 25* | An Introduction to the Chromatic Nullstellensatz | Torgeir | [Notes](https://drive.google.com/file/d/1-AKn5Qetg3Zh8Za8LXw7VFYZeQ5cdYyf/view?usp=sharing), [Video](https://youtu.be/2DwuPdV3HEE)
+*April 08* | Spherical Witt Vectors and Deformation Theory | Amartya | [Notes](https://drive.google.com/file/d/1DjhJ3YMKnIIXCQshkyBEI_nDWQidZtoZ/view?usp=sharing), [Video](https://youtu.be/aGma2Ki1r2M)
 
   
 
