@@ -27,7 +27,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *March 5* | Lubin-Tate Theory | Amartya | [Video](https://youtu.be/B7RwhKk0nUk), [Notes](https://drive.google.com/file/d/1P6ASGzK8YAZ3ctX5bke6ByGG_qxmIU3o/view?usp=sharing)
 *March 25* | An Introduction to the Chromatic Nullstellensatz | [Torgeir](https://folk.ntnu.no/torgeaam/) | [Notes](https://drive.google.com/file/d/1-AKn5Qetg3Zh8Za8LXw7VFYZeQ5cdYyf/view?usp=sharing), [Video](https://youtu.be/2DwuPdV3HEE)
 *April 08* | Spherical Witt Vectors and Deformation Theory | Amartya | [Notes](https://drive.google.com/file/d/1DjhJ3YMKnIIXCQshkyBEI_nDWQidZtoZ/view?usp=sharing), [Video](https://youtu.be/aGma2Ki1r2M)
-*April 29* | Construction of E-Theory and Power Operations | Rushil | 
+*April 29* | Construction of E-Theory and Power Operations | Rushil | [Notes](https://drive.google.com/file/d/1xAnAypvBVsGM3D8B3Gk_tXuZ4ZNEDplx/view?usp=sharing), [Video](https://www.youtube.com/watch?v=axyFaMMbo2U)
 *May 06* | Detection of Nilpotence | [Logan](https://loganhyslop.github.io/) | 
 *May 13* | | |
 *May 20* | | |
