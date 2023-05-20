@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Here's my most recent [CV](https://drive.google.com/file/d/1Wzv8QhZyyJcOmPDPbVOL5JiXiqJ33jq5/view?usp=sharing)
+Here's my most recent [CV](https://drive.google.com/file/d/12iTQnhL6jGBFYol7nqCv7bpY2YUfxIi2/view?usp=sharing)
 
 
 Education
