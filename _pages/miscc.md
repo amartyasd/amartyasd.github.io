@@ -7,8 +7,9 @@ redirect_from:
   - /miscellaneousstuff
 ---
 
-#  Here are  links to the webpages of some of my friends and mentors.
+#  Here are  links to the webpages of some of my friends.
   
+* [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
