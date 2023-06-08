@@ -38,5 +38,5 @@ Some math Links
 Poetry
 ======
 
-* [Boris Ryzhy's poetry](https://www.pushkinhouse.org/blog/2020/3/24/boris-ryzhy-marta-biino): I keep visiting his work while I'm meandering inside my mind.
+* [Boris Ryzhy's poetry](https://borisryzhy.com/POEMS): I keep visiting his work while I'm meandering inside my mind.
 
