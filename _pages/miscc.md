@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneousstuff
 ---
 
-#  Here are  links to the webpages of some of my friends.
+#  Here are links to the web pages of some of my friends.
   
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-Some genral math and other useful Links
+Some general math and other useful Links
 ======
 
 * [nLab](https://ncatlab.org/nlab/show/HomePage)
