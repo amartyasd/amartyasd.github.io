@@ -16,3 +16,9 @@ This page contains link of working/reading groups I'm organising or co-organisin
 ======
 
 
+
+Upcoming
+======
+
+
+TED K-theory and TQC Seminar
