@@ -9,6 +9,7 @@ redirect_from:
 
 #  Here are links to the web pages of some of my friends.
   
+* [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
