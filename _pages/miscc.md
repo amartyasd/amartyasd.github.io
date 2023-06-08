@@ -33,3 +33,10 @@ Some math Links
 * [Mark Hovey's Problem List](https://www-users.cse.umn.edu/~tlawson/hovey/)
 * [Doug Ravenel's archives](https://people.math.rochester.edu/faculty/doug/papers.html)
 * [Torgeir's Blog](https://torgeiraamboe.github.io/)
+
+
+Poetry
+======
+
+* [Boris Ryzhy's poetry](https://www.pushkinhouse.org/blog/2020/3/24/boris-ryzhy-marta-biino): I keep visiting his work while I'm meandering inside my mind.
+
