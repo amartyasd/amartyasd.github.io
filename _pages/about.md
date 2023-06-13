@@ -26,6 +26,8 @@ Aside from my primary preoccupations and interests, I'm also interested in Music
 * Generalised Mahowald Invariants: Thesis of J.D.Quigley [link](https://curate.nd.edu/downloads/und:q524jm24d1z)
 * N_{\infty}-operads and associahedra [arXiv](https://arxiv.org/abs/1905.03797) 
 * Chromatic Cyclotomic Extensions [arXiv](https://arxiv.org/abs/2103.02471)
+* Stable stems [arXiv](https://arxiv.org/abs/1407.8418)
+* The Green book 
 
 
 (Last updated on June 14, 2023)
