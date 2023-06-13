@@ -11,11 +11,27 @@ Hello! I'm an undergraduate at the National Institute of Science Education and R
 
 I have a wide range of interests. I'm interested in different flavours of (particularly Chromatic) Homotopy Theory, Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena (in general), Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis(TDA) interesting.
 
-Apart from these are other ambitious projects and ventures that I wish to take up when my schedule permits. They are the subjects of Higher THH, Higher K-theory, and the one and only "Telescope Conjecture"(which is a conjecture no more).
+Apart from these are other ambitious projects and ventures that I wish to take up when my schedule permits. They are the subjects of Higher THH, Higher K-theory, and the one and only "Telescope Conjecture"(which used to be a conjecture until recently, all hail the Cylotomic Telescope).
 
 My view of Mathematics is broad, and I'm always open to ideas and themes coming from unknown waters in the unfathomable ocean of mathematics. (I believe, after all, there are infinitely many things in the mathematical universe that can be pursued) 
 
-Aside from my primary preoccupations and interests, I'm also interested in Music, Existentialism and to some extent Linguistics.
+Aside from my primary preoccupations and interests, I'm also interested in Music, Existentialism and, to some extent, Linguistics.
+
+## Some stuff I'm currently reading (or maybe skimming some) or interested in finding time and energy to read (not exhaustive and in no order) 
+
+* The Chromatic Nullstellensatz [arXiv](https://arxiv.org/abs/2207.09929)
+* PURITY IN CHROMATICALLY LOCALIZED ALGEBRAIC K-THEORY [link](https://people.math.rochester.edu/faculty/doug/otherpapers/LMMT.pdf)
+* Reflection positivity and invertible topological phases [arXiv](https://arxiv.org/abs/1604.06527)
+* The motivic Mahowald invariant [arXiv](https://arxiv.org/abs/1801.06035)
+* Generalised Mahowald Invariants: Thesis of J.D.Quigley [link](https://curate.nd.edu/downloads/und:q524jm24d1z)
+* N_{\infty}-operads and associahedra [arXiv](https://arxiv.org/abs/1905.03797) 
+* Chromatic Cyclotomic Extensions [arXiv](https://arxiv.org/abs/2103.02471)
+
+
+(Last updated on June 14, 2023)
+
+(Note: I am not even trying to keep the above list updated because I just can't and because it's always an incomplete list. This is a mere expression of the flavour of things I am or am willing to spend my energy on at this moment) 
+
 
 
 
