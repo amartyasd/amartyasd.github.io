@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneousstuff
 ---
 
-#  Here are links to the web pages of some of my friends.
+#  Links to the web pages of some of my friends.
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
@@ -38,6 +38,8 @@ Some general math and other useful Links
 * [Adams charts](https://s.wayne.edu/isaksen/adams-charts/):  If you're me, you visit this too often.
 
 
+
+
 Poetry
 ======
 
@@ -48,3 +50,4 @@ Art
 ======
 
 * [Fomenko's Art](https://chronologia.org/en/math_impressions/images.html)
+* [Bob Bruner's A(1)-resolutions art](http://www.rrb.wayne.edu/art/index.html)
