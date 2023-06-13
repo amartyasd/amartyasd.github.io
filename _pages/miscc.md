@@ -43,3 +43,8 @@ Poetry
 
 * [Boris Ryzhy's poetry](https://borisryzhy.com/POEMS): I keep visiting his work while I'm meandering inside my mind.
 
+
+Art
+======
+
+* [Fomenko's Art](https://chronologia.org/en/math_impressions/images.html)
