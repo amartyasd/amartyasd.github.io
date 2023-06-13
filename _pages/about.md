@@ -28,6 +28,10 @@ Aside from my primary preoccupations and interests, I'm also interested in Music
 * Chromatic Cyclotomic Extensions [arXiv](https://arxiv.org/abs/2103.02471)
 * Stable stems [arXiv](https://arxiv.org/abs/1407.8418)
 * The Green book 
+* On topological cyclic homology [arXiv](https://arxiv.org/abs/1707.01799)
+* TOPOLOGICAL HOCHSCHILD HOMOLOGY AND INTEGRAL p-ADIC HODGE THEORY [arXiv](https://arxiv.org/abs/1802.03261)
+
+
 
 
 (Last updated on June 14, 2023)
