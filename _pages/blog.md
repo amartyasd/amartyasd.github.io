@@ -7,7 +7,9 @@ redirect_from:
   - /blog
 ---
 
-In short: This part of the site is currently a work in progress.
+In short: This part of the website is currently a work in progress.
 
 
-More truthfully: I hope to be able to commit to having something at least once a month at some point in the future
+More truthfully: I hope to be able to commit to having something at least once a month at some point in the future.
+
+Surprise: The first blog post's upcoming soon.
