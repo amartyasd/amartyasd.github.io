@@ -31,7 +31,8 @@ Date  | Title of the talk | Speaker | Notes and Video
 *May 06* | Detection of Nilpotence | [Logan](https://loganhyslop.github.io/) | [Notes](https://drive.google.com/file/d/1plsne1uLRanP0_3oSTrXIoAGilxkQSLg/view?usp=sharing), [Video](https://youtu.be/KGO59Qa5-Ro)
 *May 20* | Nullstellensatzian T(n)-local E_∞ ring spectra | Amartya | [Video](https://www.youtube.com/watch?v=dn0Pn4W0BSY)
 *May 27* | The constructible Spectrum | Rushil | [Video](https://youtu.be/dDVQ8tPKK4k)
-*June 19* | Picard Groups and Orientations | [Jonathan](https://www.jonathanbeardsley.com/) |
+*June 19* | Picard Groups and Orientations | [Jonathan](https://www.jonathanbeardsley.com/) | [Video](https://youtu.be/INnR265jD70)
+** | Redshift Phenomena | [Tomer] |
 
   
 
