@@ -9,7 +9,6 @@ redirect_from:
 
 #  Travels
 
-* [T̶o̶p̶o̶l̶o̶g̶i̶c̶a̶l̶ M̶o̶o̶n̶s̶h̶i̶n̶e̶ C̶o̶n̶f̶e̶r̶e̶n̶c̶e̶](https://sites.google.com/view/mengguo/moonshine?authuser=0): Missed due to VISA issues
 * [Young Topologists Meeting, EPFL](https://ytm2023.epfl.ch/); July 2023
 
 
