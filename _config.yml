@@ -163,7 +163,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  math_engine: mathjax
+  math_engine: 
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
