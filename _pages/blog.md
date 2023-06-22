@@ -11,6 +11,6 @@ In short: This part of the website is currently a work in progress.
 
 More truthfully: I have not committed yet. I hope to commit to having something at least once a month at some point in the future.
 
-[Blog Post 1](/2023-06-16-blog-post-1/)
+[Blog Post 1](/posts/2023-06-16-blog-post-1/)
 -----
 
