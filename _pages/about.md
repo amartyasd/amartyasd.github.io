@@ -7,9 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm an undergraduate at the National Institute of Science Education and Research, Bhubaneswar, India. 
 
 
+## About 
+
+<p align="right">
+   <img src="/images/night ride.jpg" align="right"  alt width="300px"/>
+</p>
+
+
+I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India.
 
 I have a wide range of interests. I'm interested in different flavours of (particularly Chromatic) Homotopy Theory, Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena (in general), Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis(TDA) interesting.
 
