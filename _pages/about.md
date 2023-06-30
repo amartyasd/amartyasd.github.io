@@ -12,7 +12,7 @@ redirect_from:
 ## About 
 
 <p align="right">
-   <img src="/images/night ride.jpg" align="right"  alt width="300px"/>
+   <img src="/images/night ride.jpg" align="right"  alt width="325px"/>
 </p>
 
 
