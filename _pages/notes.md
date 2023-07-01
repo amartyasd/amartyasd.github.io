@@ -27,11 +27,13 @@ Notes, talks and Writings
 * [Lubin-Tate Theory](https://drive.google.com/file/d/1P6ASGzK8YAZ3ctX5bke6ByGG_qxmIU3o/view?usp=sharing)
 * [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 1)](https://drive.google.com/file/d/1zpyCDYA5hMyCii1-vvyO7r6p-8P-wV7D/view?usp=sharing)
 * [Extended Reflection Positivity for Invertible Topological Quantum Field Theories (Part 2)](https://drive.google.com/file/d/1nJ3rKtwH9Y8AFrn9u6DFis3svEwTF6o4/view?usp=sharing)
-* [The May spectral Sequence for AdSS E2 page computations](): In these notes, I try to motivate the May SS and compute the stable homotopy groups of the sphere and the AdSS E2 page of ko using two approaches: using minimal $\mathcal{A}(1)$-resolutions and the May SS.
+* [The May spectral Sequence for AdSS E2 page computations](https://drive.google.com/file/d/1aFZwI8ytiUPFzLs-FpTP8au3PDUfQtc8/view?usp=sharing): In these notes, I try to motivate the May SS and compute the stable homotopy groups of the sphere and the AdSS E2 page of ko using two approaches: using minimal $\mathcal{A}(1)$-resolutions and the May SS.
 
 Publications, Preprints and Works in Progress
 ======
 * A Realizability Model of HoTT (work in progress with [Ulrik Buchholtz](https://ulrikbuchholtz.dk/))
 * Generalised N_∞ operads (in progress)
+*
+* 
 
 
