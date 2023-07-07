@@ -32,7 +32,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *May 20* | Nullstellensatzian T(n)-local E_∞ ring spectra | Amartya | [Video](https://www.youtube.com/watch?v=dn0Pn4W0BSY), [Notes](https://drive.google.com/file/d/19kK9IRQuwDkc63Gu4XJaP1Hz65oO62ad/view?usp=sharing)
 *May 27* | The constructible Spectrum | Rushil | [Video](https://youtu.be/dDVQ8tPKK4k)
 *June 19* | Picard Groups and Orientations | [Jonathan](https://www.jonathanbeardsley.com/) | [Video](https://youtu.be/INnR265jD70), [Notes](https://www.jonathanbeardsley.com/chromaticnullstellensatzPicnotes.pdf)
-*July 6* | Redshift Phenomena | [Tomer](https://sites.google.com/view/tomer-schlank) |
+*July 6* | Redshift Phenomena | [Tomer](https://sites.google.com/view/tomer-schlank) | [Notes](https://drive.google.com/file/d/1U2rayV0XV-rL_BpkyjMbiTcGZS1cDUHZ/view?usp=sharing)
 
   
 
