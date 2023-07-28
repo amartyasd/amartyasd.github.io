@@ -18,6 +18,7 @@ redirect_from:
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
+* [Connor Malin](https://cwmalin214.github.io/)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
