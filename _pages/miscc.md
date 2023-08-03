@@ -29,6 +29,7 @@ redirect_from:
 * [Thor Wittich](https://sites.google.com/view/thorwittich/)
 * [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
+* [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
 
 
 
