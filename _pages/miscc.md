@@ -22,9 +22,11 @@ redirect_from:
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
+* [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
+* [Thor Wittich](https://sites.google.com/view/thorwittich/)
 * [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 
