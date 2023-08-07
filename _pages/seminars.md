@@ -7,7 +7,9 @@ redirect_from:
   - /seminars
 ---
 
-This page contains link of working/reading groups I'm organising or co-organising.
+This page contains links of working/reading groups I'm (c0)organising or have (co)organised in the past.
+
+### Past Seminars
 
 [Chromatic Nullstellensatz Seminar](/chromatic/) 
 ======
@@ -16,9 +18,9 @@ This page contains link of working/reading groups I'm organising or co-organisin
 ======
 
 
-
-Upcoming
-======
+### Current
+ 
 
 
 TED K-theory and TQC Seminar
+======
