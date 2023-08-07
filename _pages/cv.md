@@ -79,10 +79,11 @@ Other Activities
   Participating in [eCHT Reading Seminar on the Adams spectral sequence for tmf](https://s.wayne.edu/echt/echt-reading-seminars/echt-reading-seminar-on-the-adams-spectral-sequence-for-topological-modular-forms-winter-2023/)
 * Summer 2023 
   Participated in [2023 Quantum Winter School](https://www.qubitbyqubit.org/winter-school)
-* Suumer Break 2023
+* Summer Break 2023
   Participating in [YTM, EPFL](https://ytm2023.epfl.ch/) in person
   
-  Note: At some point I gave up to keep updating this. I may or mayn't update it later.
+  
+  Note: At some point, I gave up to keep updating this. I mayor mayy nott update it later.
   
   
   
