@@ -14,7 +14,7 @@ redirect_from:
 
 
 <p align="right">
-   <img src="/images/Jeunotel pIcC.jpg" align="right"  alt width="235px"/>
+   <img src="/images/im.jpg" align="right"  alt width="235px"/>
 </p>
 
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India.
@@ -28,9 +28,7 @@ My view of Mathematics is broad, and I'm always open to ideas and themes coming 
 
 Aside from my primary preoccupations and interests, I'm also interested in Music, Existentialism and, to some extent, Linguistics.
 
-<p align="right">
-   <img src="/images/night ride.jpg" align="right"  alt width="275px"/>
-</p>
+
 
 ## Some stuff I'm currently reading (or maybe skimming some) or interested in finding time and energy to read (not exhaustive and in no order) 
 
