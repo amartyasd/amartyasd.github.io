@@ -14,7 +14,7 @@ redirect_from:
 
 
 <p align="right">
-   <img src="/images/im.jpg" align="right"  alt width="235px"/>
+   <img src="/images/pic.jpg" align="right"  alt width="235px"/>
 </p>
 
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India.
