@@ -17,6 +17,7 @@ We have a Discord server for the seminar. For anyone interested, feel free to ge
 
 
 ### References
+
 Title| Author(s)
 --- | --- 
 [Anyonic Defect Branes and Conformal Blocks in Twisted Equivariant Differential (TED) K-theory](https://ncatlab.org/schreiber/files/DefectBranes_220824.pdf) | Sati-Schreiber
@@ -26,7 +27,7 @@ Title| Author(s)
 
 
 
-''Syllabus and Schedule upcoming''
+''Syllabus and Schedule upcoming.''
 
 
 
