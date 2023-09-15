@@ -18,9 +18,9 @@ This page contains links of working/reading groups I'm (c0)organising or have (c
 ======
 
 
-### Current
+### Current/Upcoming
  
 
 
-TED K-theory and TQC Seminar
+[TED K-theory Seminar](/TQC/)
 ======
