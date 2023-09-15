@@ -18,7 +18,7 @@ We have a Discord server for the seminar. For anyone interested, feel free to ge
 #### Schedule
 Date | Title | Speaker | Resources
 --- | --- | --- | --- 
- | |  |
+
 
 ### References
 Title| Author(s)
