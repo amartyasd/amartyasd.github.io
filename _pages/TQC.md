@@ -15,10 +15,6 @@ The goal of the seminar is to understand the premises of Sati-Schreiber's [Topol
 
 We have a Discord server for the seminar. For anyone interested, feel free to get in touch for the invite link.
 
-#### Schedule
-Date | Title | Speaker | Resources
---- | --- | --- | --- 
-
 
 ### References
 Title| Author(s)
@@ -30,7 +26,7 @@ Title| Author(s)
 
 
 
-''Syllabus upcoming''
+''Syllabus and Schedule upcoming''
 
 
 
