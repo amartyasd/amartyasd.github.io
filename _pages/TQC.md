@@ -15,6 +15,18 @@ The goal of the seminar is to understand the premises of Sati-Schreiber's [Topol
 
 We have a Discord server for the seminar. For anyone interested, feel free to get in touch for the invite link.
 
+#### Schedule
+
+--- | --- | --- | --- 
+ | |  |
+
+###References
+
+--- | --- 
+
+[Anyonic Defect Branes and Conformal Blocks in
+Twisted Equivariant Differential (TED) K-theory](https://ncatlab.org/schreiber/files/DefectBranes_220824.pdf) | Sati-Schreiber
+[Equivariant Principal $\infty$-Bundles]
 
 
 
