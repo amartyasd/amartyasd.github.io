@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Topological Quantum Computation Seminar"
+title: "TED K-Theory Seminar"
 permalink: /TQC/
 author_profile: true
 redirect_from:
