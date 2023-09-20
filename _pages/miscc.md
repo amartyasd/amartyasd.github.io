@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-#  Web pages of some of my friends.
+#  Web pages of some friends 
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
@@ -24,6 +24,7 @@ redirect_from:
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
+* [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
 * [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
@@ -32,6 +33,7 @@ redirect_from:
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
 * [Vitalii Guzeev](https://viviag.io/)
+  
 
 
 
