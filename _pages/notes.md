@@ -34,6 +34,7 @@ Publications, Preprints and Works in Progress
 ======
 * A Realizability Model of HoTT (work in progress with [Ulrik Buchholtz](https://ulrikbuchholtz.dk/))
 * Generalised N_∞ operads (in progress)
+* $\mathbb{E}_n$-algebras in $(m+1)$-categories (in progress with [Leon Liu](https://leon2k2k2k.github.io/)) 
 *
 * 
 
