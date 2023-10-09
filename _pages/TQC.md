@@ -23,6 +23,10 @@ We have a Discord server for the seminar. For anyone interested, feel free to ge
 | [Anyonic Defect Branes and Conformal Blocks in Twisted Equivariant Differential (TED) K-theory](https://ncatlab.org/schreiber/files/DefectBranes_220824.pdf) | Sati-Schreiber |
 | [Equivariant Principal $\infty$-Bundles](https://ncatlab.org/schreiber/files/EquivariantInfinityBundles_230801.pdf) | Sati-Schreiber |
 | [Twisted Equivariant Matter](https://arxiv.org/abs/1208.5055) | Freed-Moore |
+| [Freed-Moore K-theory](https://arxiv.org/abs/1705.09134v4) | Gomi
+| [Differential KO-theory: constructions, computations, and applications](https://arxiv.org/abs/1809.07059v3) | Grady-Sati
+
+
 
 
 
