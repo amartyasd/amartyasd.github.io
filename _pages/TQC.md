@@ -12,8 +12,21 @@ redirect_from:
 This is the website for the "Sati-Schreiber Twisted Equivariant Differential K-theory" reading seminar that's about to begin tentatively this term.
 The goal of the seminar is to understand the premises of Sati-Schreiber's [Topological Quantum Programming in TED-K](https://ncatlab.org/schreiber/show/Topological+Quantum+Programming+in+TED-K#GMConAbs).
 
+Here's a rough [syllabus](https://drive.google.com/file/d/1pfmDwKK2k0fjr8-vN5W2tLQU-VtCSo23/view?usp=drive_link).
 
 We have a Discord server for the seminar. For anyone interested, feel free to get in touch for the invite link.
+
+
+### Schedule
+
+| Date | Title | Speaker | Notes and/or Video |
+--- | --- | --- | ---
+| Oct 20 | Introduction and Motivations | [Tim] | |
+| Oct 27 | What's K-Theory anyways? | | |
+| Nov 3 | Twisted K-Theory(I) | Artem | |
+| Nov 10 | Twisted K-Theory(II) | Artem | |
+|  | | | |
+
 
 
 ### References
@@ -31,7 +44,6 @@ We have a Discord server for the seminar. For anyone interested, feel free to ge
 
 
 
-''Syllabus and Schedule upcoming.''
 
 
 
