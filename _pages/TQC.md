@@ -21,7 +21,7 @@ We have a Discord server for the seminar. For anyone interested, feel free to ge
 
 | Date | Title | Speaker | Notes and/or Video |
 --- | --- | --- | ---
-| Oct 20 | Introduction and Motivations | [Tim](https://thosgood.com/) | |
+| Oct 20 | Introduction and Motivations | [Tim](https://thosgood.com/) | [Video](https://youtu.be/1yYDuU3Eyi0) |
 | Oct 27 | What's K-Theory anyways? | | |
 | Nov 3 | Twisted K-Theory(I) | Artem | |
 | Nov 10 | Twisted K-Theory(II) | Artem | |
