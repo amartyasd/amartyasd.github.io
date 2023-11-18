@@ -51,7 +51,7 @@ Some general math and other useful Links
 * [Doug Ravenel's archives](https://people.math.rochester.edu/faculty/doug/papers.html)
 * [Torgeir's Blog](https://torgeiraamboe.github.io/)
 * [Adams charts](https://s.wayne.edu/isaksen/adams-charts/):  If you're me, you visit this too often.
-
+* Website for the Young Homotopy Theorists seminar [YoungHom](https://younghomseminar.github.io/) 
 
 
 
