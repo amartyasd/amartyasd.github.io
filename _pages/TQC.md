@@ -24,7 +24,7 @@ We have a Discord server for the seminar. For anyone interested, feel free to ge
 | Oct 20 | Introduction and Motivations | [Tim](https://thosgood.com/) | [Video](https://youtu.be/1yYDuU3Eyi0) |
 | Nov 3 | What's K-Theory anyways? | Amartya | [Video](https://youtu.be/nh2vBS_kTlM?si=1f2KZrrO9s7B0nKZ) |
 | Nov 18 | Twisted K-Theory(I) | Logan | [Video](https://youtu.be/pBKmHRG7EY4?si=9SSfD_iDz74pQp71)|
-| Dec 2 | Twisted K-Theory(II) | Artem | |
+| Dec 2 | Twisted K-Theory(II) |  | |
 |  | | | |
 
 
