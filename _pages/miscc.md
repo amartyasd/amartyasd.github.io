@@ -19,6 +19,7 @@ redirect_from:
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
+* [Branko Juran](https://brankoj.gitlab.io/)
 * [Connor Malin](https://cwmalin214.github.io/)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
@@ -27,6 +28,7 @@ redirect_from:
 * [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
 * [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
+* [Tim Hosgood](https://thosgood.com/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
 * [Thor Wittich](https://sites.google.com/view/thorwittich/)
 * [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
