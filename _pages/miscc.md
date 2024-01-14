@@ -12,7 +12,7 @@ redirect_from:
 *  T̶o̶p̶o̶l̶o̶g̶i̶c̶a̶l̶ M̶o̶o̶n̶s̶h̶i̶n̶e̶ C̶o̶n̶f̶e̶r̶e̶n̶c̶e̶: Missed due to VISA issues
 *  [Young Topologists Meeting, EPFL](https://ytm2023.epfl.ch/); July 2023
 *  P̶a̶r̶a̶m̶e̶t̶r̶i̶z̶e̶d̶ H̶o̶m̶o̶t̶o̶p̶y̶ T̶h̶e̶o̶r̶y̶ W̶o̶r̶k̶s̶h̶o̶p̶
-
+*  [Unstable Motivic Homotopy Theory Winter School](https://sites.google.com/view/wsumht24/home); March 2024 
 
 
 #  Web pages of some friends 
