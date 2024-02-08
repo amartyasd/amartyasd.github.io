@@ -28,7 +28,7 @@ My view of Mathematics is broad, and I'm always open to ideas and themes coming 
 
 Aside from my primary preoccupations and interests, I'm also interested in Music, Existentialism and, to some extent, Linguistics.
 
-
+NOTE: I have not been updating, and some stuff's outdated. 
 
 ## Some stuff I'm currently reading (or maybe skimming some) or interested in finding time and energy to read (not exhaustive and in no order) 
 
