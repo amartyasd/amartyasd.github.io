@@ -24,6 +24,7 @@ redirect_from:
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
+* [Liam Keenan](https://sites.google.com/view/liam-keenan/home)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
 * [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
