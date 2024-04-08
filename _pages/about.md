@@ -17,6 +17,8 @@ redirect_from:
    <img src="/images/mainzpic.jpg" align="right"  alt width="210px"/>
 </p>
 
+
+
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India.
 
 I have a wide range of interests. I'm interested in different flavours of (particularly Chromatic) Homotopy Theory, Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena (in general), Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis(TDA) interesting.
@@ -28,7 +30,7 @@ My view of Mathematics is broad, and I'm always open to ideas and themes coming 
 
 Aside from my primary preoccupations and interests, I'm also interested in Music, Existentialism and, to some extent, Linguistics.
 
-NOTE: I have not been updating, and some stuff's outdated. 
+NOTE: I have not been updating, and some stuff is outdated. 
 
 ## Some stuff I'm currently reading (or maybe skimming some) or interested in finding time and energy to read (not exhaustive and in no order) 
 
