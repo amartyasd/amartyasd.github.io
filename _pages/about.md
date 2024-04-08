@@ -21,14 +21,14 @@ redirect_from:
 
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India.
 
-I have a wide range of interests. I'm interested in different flavours of Homotopy Theory, chromatic in particular,  Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena in general, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis(TDA) interesting.
+I have a wide range of interests. I'm interested in different flavours of Homotopy Theory, chromatic in particular,  Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena in general, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis interesting.
 
 Apart from these are other ambitious projects and ventures that I wish to take up when my schedule permits. They are the subjects of Higher THH, Higher K-theory, and the one and only "Telescope Conjecture"(which used to be a conjecture until recently, all hail the Cylotomic Telescope).
 
-My view of Mathematics is broad, and I'm always open to ideas and themes coming from unknown waters in the unfathomable ocean of mathematics. (I believe, after all, there are infinitely many things in the mathematical universe that can be pursued) 
+My view of Mathematics is broad, and I'm always open to ideas and themes coming from unknown waters in the unfathomable ocean of mathematics. I believe, after all, there are infinitely many things in the mathematical universe that can be pursued.
 
 
-Aside from my primary preoccupations and interests, I'm also interested in Music, Existentialism and, to some extent, Linguistics.
+Aside from my primary preoccupations and interests, I'm also interested in Music, a hot mess of Schopenhauerian and Mainlaenderian Existentialist philosophy and, to some extent, Linguistics.
 
 NOTE: I have not been updating, and some stuff is outdated. 
 
