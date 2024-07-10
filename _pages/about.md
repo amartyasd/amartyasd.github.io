@@ -14,7 +14,7 @@ redirect_from:
 
 
 <p align="right">
-   <img src="/images/bouldering.jpg" align="right"  alt width="210px"/>
+   <img src="/images/gilleleje port.jpg" align="right"  alt width="200px"/>
 </p>
 
 
