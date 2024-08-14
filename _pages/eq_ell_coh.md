@@ -9,13 +9,13 @@ redirect_from:
 
 
 
-This is the website for the reading seminar "Equivariant Elliptic Cohomology ", starting tentatively in mid September. There's a mailing list for whose link; feel free to contact one of the organisers.
+This is the website for the reading seminar "Equivariant Elliptic Cohomology ", starting tentatively in mid-September. There's a mailing list for whose link; feel free to contact one of the organisers.
 
 The syllabus will be out soon. The main reference for the seminar will be Gepner-Meier.
 
 Date  | Title of the talk | Speaker | Notes and Video 
 --- | --- | --- | --- 
-
+|||
 
   
 
