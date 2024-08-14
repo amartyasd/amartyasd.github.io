@@ -30,4 +30,4 @@ References
 | [Chromatic Homotopy Theory](https://people.math.harvard.edu/~lurie/252x.html) | Jacob Lurie |
 
 ### Organisers and Contact Info
-Amartya \(amartyashekhar.dubey@niser.ac.in\), Timon Thanassis
+Amartya \(amartyashekhar.dubey@niser.ac.in\), Timon 
