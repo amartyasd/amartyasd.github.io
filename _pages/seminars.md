@@ -21,7 +21,7 @@ This page contains links to working/reading groups I'm (co)organising or have (c
 ======
 ### Current/Upcoming
  
-[Equivariant Ellitpic Cohomology Seminar](/eq_ell_coh/)
-
+[Equivariant Elliptic Cohomology Seminar](/eqellcoh/)
+======
 
 
