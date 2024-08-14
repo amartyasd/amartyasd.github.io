@@ -7,7 +7,7 @@ redirect_from:
   - /seminars
 ---
 
-This page contains links of working/reading groups I'm (c0)organising or have (co)organised in the past.
+This page contains links to working/reading groups I'm (co)organising or have (co)organised in the past.
 
 ### Past Seminars
 
@@ -17,10 +17,11 @@ This page contains links of working/reading groups I'm (c0)organising or have (c
 [Higher Categories Seminar](https://vbvstrv.github.io/teaching-notes/summer-22-higher-cats/notes.html)
 ======
 
-
-### Current/Upcoming
- 
-
-
 [TED K-theory Seminar](/TQC/)
 ======
+### Current/Upcoming
+ 
+[Equivariant Ellitpic Cohomology Seminar](/eq_ell_coh/)
+
+
+
