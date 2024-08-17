@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-This is the website for the reading seminar "Equivariant Elliptic Cohomology ", starting tentatively in mid-September. There's a mailing list of the seminar; to be added feel free to contact one of the organisers. 
+This is the website for the reading seminar "Equivariant Elliptic Cohomology ", starting tentatively in mid-September. There's a mailing list of the seminar; to be added, feel free to contact one of the organisers. 
 
 The syllabus will be out soon. The main reference for the seminar will be Gepner-Meier.
 
@@ -30,4 +30,4 @@ References
 | [Chromatic Homotopy Theory](https://people.math.harvard.edu/~lurie/252x.html) | Jacob Lurie |
 
 ### Organisers and Contact Info
-Amartya \(amartyashekhar.dubey@niser.ac.in\), Timon \(timon.thanassis@stud.uni-regensburg.de\)
+Amartya \\(amartyashekhar.dubey@niser.ac.in\\), Timon \\(timon.thanassis@stud.uni-regensburg.de\\)
