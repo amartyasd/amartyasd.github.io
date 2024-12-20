@@ -13,6 +13,8 @@ This is the website for the "Equivariant Elliptic Cohomology "reading seminar, s
 
 [Here's](https://drive.google.com/file/d/1ZQuyfE6Uxnviye5kH0PMGYwGF-SLoOUX/view?usp=sharing) the link to the syllabus of the seminar. The main reference for the seminar will be Gepner-Meier.
 
+[Here's](https://ucla.zoom.us/j/91967826941) the meeting link for those interested.
+
 
 Date  | Title of the talk | Speaker | Notes and Video 
 --- | --- | --- | --- 
