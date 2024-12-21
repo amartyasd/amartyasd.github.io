@@ -18,7 +18,7 @@ This is the website for the "Equivariant Elliptic Cohomology "reading seminar, s
 
 Date  | Title of the talk | Speaker | Notes and Video 
 --- | --- | --- | --- 
-Dec 20|Cohomology theories and formal groups|Siddharth|
+Dec 20|Cohomology theories and formal groups|Siddharth|[Video](https://youtu.be/kYCI8yf2I8U), [Notes](https://drive.google.com/file/d/1cj8-npF8-R-H_2XljIfb9DstGJwAcu0u/view?usp=sharing)
 Jan 3 |Elliptic cohomology: A first glimpse| Grisha|
 Jan 10|Orientations and oriented elliptic curves| Giovanni|
 Jan 17|Orbispaces|Marco|
