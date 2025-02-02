@@ -23,7 +23,7 @@ Jan 3 |Elliptic cohomology: A first glimpse| Grisha| [Video](https://youtu.be/6M
 Jan 13|Orientations and oriented elliptic curves| Giovanni|[Video](https://youtu.be/4l7rWvTkDeo), [Notes](https://drive.google.com/file/d/1ierfjpEPFJdCU3HIOynsljqSSVOArWej/view?usp=sharing)
 Jan 17|Orbispaces|Marco| [Video](https://youtu.be/Xihl_Bd7w9c)
 Jan 24|Constructing global cohomology theories|Timon| [Video](https://youtu.be/SHq0mnm2c6E), [Notes](https://drive.google.com/file/d/16-fJVyG6_yvum0q0_dfSqs_m6BVkIIAu/view?usp=sharing)
-Jan 31|The case of Equivariant K-theory & revisiting Orientations|Amartya| [Video](https://www.youtube.com/watch?v=21k-mFHgNdc)
+Jan 31|The case of Equivariant K-theory & revisiting Orientations|Amartya| [Video](https://www.youtube.com/watch?v=21k-mFHgNdc), [Notes](https://drive.google.com/file/d/1ar1_ELUe1kxjzSf4SSq3w2V9H4e3Up3v/view?usp=sharing)
 Feb 7|Construction of Ell|Nik|
 Feb 14|The circle equivariant elliptic cohomology of a point|Kamil|
   
