@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Here's my most recent [CV](https://drive.google.com/file/d/1eypc6OnuDmQApyrr2_uwsPBvJPYMuVyy/view?usp=sharing)
+Here's my most recent [CV](https://drive.google.com/file/d/1Qw7QiFRRrQiprXW6luK3iSzlmBprx3pP/view?usp=sharing)
 
 Warning: Everything below's out of date. Just click the above link
 
