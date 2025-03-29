@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India.
+I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. My current thesis advisors are [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/).
 
 I have a wide range of interests. I'm interested in different flavours of Homotopy Theory, chromatic in particular,  Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena in general, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis interesting.
 
