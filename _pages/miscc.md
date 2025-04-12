@@ -14,18 +14,23 @@ redirect_from:
 *  P̶a̶r̶a̶m̶e̶t̶r̶i̶z̶e̶d̶ H̶o̶m̶o̶t̶o̶p̶y̶ T̶h̶e̶o̶r̶y̶ W̶o̶r̶k̶s̶h̶o̶p̶
 *  [Unstable Motivic Homotopy Theory Winter School](https://sites.google.com/view/wsumht24/home); March 2024 
 *  [Masterclass: Continuous K-theory, dualizable and rigid categories](https://www.math.ku.dk/english/calendar/events/masterclass-continuous-k-theory/); June 2024
+*  [Young Topologsts Meeting, KTH](https://www.math-stockholm.se/ytm2025-1.1350169); June 2025
 
 #  Web pages of some friends 
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
-* [Branko Juran](https://brankoj.gitlab.io/)
 * [Connor Malin](https://cwmalin214.github.io/)
+* [Fernando Abellán](https://fernandoabellan.de/)
+* [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
+* [Jaco Ruit](https://sites.google.com/view/jacoruit/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Liam Keenan](https://sites.google.com/view/liam-keenan/home)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
+* [Marco Nervo](https://sites.google.com/view/marconervo/home)
+* [Matthew Nimiero](https://niemiro.dev/)
 * [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
 * [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
