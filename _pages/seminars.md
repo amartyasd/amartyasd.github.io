@@ -19,9 +19,11 @@ This page contains links to working/reading groups I'm (co)organising or have (c
 
 [TED K-theory Seminar](/TQC/)
 ======
-### Current/Upcoming
- 
+
 [Equivariant Elliptic Cohomology Seminar](/eqellcoh/)
 ======
+
+### Current/Upcoming
+ 
 
 
