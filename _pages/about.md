@@ -21,16 +21,22 @@ redirect_from:
 
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. My current thesis advisors are [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/).
 
-I have a wide range of interests. I'm interested in different flavours of Homotopy Theory, chromatic in particular,  Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. To be more specific, currently, I'm primarily interested in redshift phenomena in general, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases. I've also recently been interested in other stuff like ttg, some tmf calculations, Mahowald Invariant computations and other computational stuff. I also find Applied Category Theory and Topological Data Analysis interesting.
+I work in chromatic/equivariant/motivic homotopy theory,  Equivariant Algebra, Algebraic K-Theory, TQFTs, Higher category theory, Homotopy Type Theory and Categorical Logic. Currently, my thesis work revolves around Topological Jacobi forms ( which is upcoming work by Lennart and Tilman Bauer), and equivariant TMF computations. Apart from that, I am also involved in some Picard group computations of invertible modules over E_n^{hC_2}, some THH computations which will presumably shed some light on redshift phenomena and (higher height) cardinality computations in Ambidexterity.
 
-Apart from these are other ambitious projects and ventures that I wish to take up when my schedule permits. They are the subjects of Higher THH, Higher K-theory, and the one and only "Telescope Conjecture"(which used to be a conjecture until recently, all hail the Cylotomic Telescope).
+In the past, I have organised seminars on Burklund-Yuan-Schlank's Chromatic Nullstellensatz, which still makes the kid in me jump. I am also somewhat interested in  Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases, and recent progress after the resolution of THE Telescope conjecture.
+
+Also, I have worked on a model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working towards the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, which was work under the guidance of J.D. Quigley, Freed-Hopkins theory, and HoTT semantics, which was under the guidance of Ulrik Buchholtz.
+
+I also find Applied Category Theory, in general, really interesting.
+
+Apart from these are other ambitious projects and ventures that I wish to take up when my schedule permits, which, ofc, I don't want to list.
 
 My view of Mathematics is broad, and I'm always open to ideas and themes coming from unknown waters in the unfathomable ocean of mathematics. I believe, after all, there are infinitely many things in the mathematical universe that can be pursued.
 
 
 Aside from my primary preoccupations and interests, I'm also interested in Music, a hot mess of Schopenhauerian and Mainlaenderian Existentialist philosophy and, to some extent, Linguistics.
 
-NOTE: I have not been updating, and some stuff is outdated. 
+NOTE: I recently updated everything you see above. Thanks for stopping by. The stuff below, maybe later :P 
 
 ## Some stuff I'm currently reading (or maybe skimming some) or interested in finding time and energy to read (not exhaustive and in no order) 
 
