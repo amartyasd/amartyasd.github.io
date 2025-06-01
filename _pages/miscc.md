@@ -35,6 +35,7 @@ redirect_from:
 * [Marco Nervo](https://sites.google.com/view/marconervo/home)
 * [Matthew Nimiero](https://niemiro.dev/)
 * [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
+* [Niklas Kipp](https://homepages.uni-regensburg.de/~kin10726/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
