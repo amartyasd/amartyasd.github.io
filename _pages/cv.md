@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-Here's my most recent (extended)[CV](https://drive.google.com/file/d/1QXZuCDzfG48Kwq6u_bhOUFPla0En1HB4/view?usp=sharing)
+Here's my most recent \(extended\)[CV](https://drive.google.com/file/d/1QXZuCDzfG48Kwq6u_bhOUFPla0En1HB4/view?usp=sharing)
 
-Warning: Everything below's out of date. Just click the above link
+Warning: Everything below is out of date. Just click the above link
 
 
 
@@ -23,15 +23,15 @@ Education
 Experience
 ======
 * Directed Reading Project [Summer 2022] (Advisor: - [Dr Ulrik Buchholtz](https://ulrikbuchholtz.dk/) , University of Nottingham)
-The goal of the project was understanding the use of the formal language of HoTT to reason internally to (∞, 1)-topoi following work by Mike Shulman. I specifically was interested in non-presentable cases, to be specific, in elementary (∞, 1)-topoi semantics of HoTT. I read Mike Shulman's paper "[All (∞,1)-toposes have strict univalent universes](https://arxiv.org/pdf/1904.07004.pdf) " and Nima Rasekh's paper "[FILTER QUOTIENTS AND NON-PRESENTABLE (∞, 1)-TOPOSES](https://arxiv.org/pdf/2001.10088.pdf)", majorly apart from Emily's excellent survey paper "[ON THE ∞-TOPOS SEMANTICS OF HOMOTOPY TYPE THEORY](https://emilyriehl.github.io/files/semantics.pdf).
-I used Cisinski's Higher Categories and Homotopical Algebra, Riehl's Categorical Homotopy Theory, and Rezk's Higher Topos theory notes as textbooks.
-Towards the end of the project I got interested in Realizablity Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is work in progress.
+The goal of the project was to understand the use of the formal language of HoTT to reason internally to (∞1)-topoi, following work by Mike Shulman. I specifically was interested in non-presentable cases, to be specific, in elementary (∞, 1)-topoi semantics of HoTT. I read Mike Shulman's paper "[All (∞,1)-toposes have strict univalent universes](https://arxiv.org/pdf/1904.07004.pdf) " and Nima Rasekh's paper "[FILTER QUOTIENTS AND NON-PRESENTABLE (∞, 1)-TOPOSES](https://arxiv.org/pdf/2001.10088.pdf)", majorly apart from Emily's excellent survey paper "[ON THE ∞-TOPOS SEMANTICS OF HOMOTOPY TYPE THEORY](https://emilyriehl.github.io/files/semantics.pdf).
+I used Cisinski's Higher Categories and Homotopical Algebra, Riehl's Categorical Homotopy Theory, and Rezk's Higher Topos Theory notes as textbooks.
+Towards the end of the project, I got interested in Realisability Models of HoTT, and am currently working on a Higher Realizability model of HoTT, which is a work in progress.
 
 * Directed Reading Project [Fall 2022] 
-In fall 2022, I worked on a project on 'Generalised Thom spectra' as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I primarily worked with [Schwede's notes](https://www.math.uni-bonn.de/people/schwede/equivariant.pdf), Adam's blue book, Barnes-Roitzheim's book for the elementary stuff, and the [Ando-Blumberg-Gepner-Hopkins-Rezk paper](https://arxiv.org/abs/1403.4325). To be more specific I worked with Ando-Blumberg-Gepner-Hopkins-Lurie's geometric R-module Thom spectra, and did some Algebraic K-theory and THH calculations. The list of goals of the project was pretty long which is why there are aspects of this project that we still like to talk and think about.
+In fall 2022, I worked on a project on 'Generalised Thom spectra' as part of [Twoples](https://sites.google.com/view/twoples/about) mentorship program with [Julius Frank](https://sites.google.com/view/julius-frank/). I primarily worked with [Schwede's notes](https://www.math.uni-bonn.de/people/schwede/equivariant.pdf), Adam's blue book, Barnes-Roitzheim's book for the elementary stuff, and the [Ando-Blumberg-Gepner-Hopkins-Rezk paper](https://arxiv.org/abs/1403.4325). To be more specific, I worked with Ando-Blumberg-Gepner-Hopkins-Lurie's geometric R-module Thom spectra, and did some Algebraic K-theory and THH calculations. The list of goals of the project was pretty long, which is why there are aspects of this project that we still like to talk and think about.
 
 * Summer project 2023:
-I'm working on a project trying to unravel more evidence of the conjectured redshift phenomena for Algebraic Mahowald invariant. My mentor for this project is [J.D.Quigley](https://quigleyjd.github.io/).
+I'm working on a project, trying to unravel more evidence of the conjectured redshift phenomena for the Algebraic Mahowald invariant. My mentor for this project is [J.D.Quigley](https://quigleyjd.github.io/).
   
 Other Activities
 ======
