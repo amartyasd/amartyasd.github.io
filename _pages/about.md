@@ -14,7 +14,7 @@ redirect_from:
 
 
 <p align="right">
-   <img src="/images/picc.jpg" align="right"  alt width="200px"/>
+   <img src="/images/recentpic.jpg" align="right"  alt width="200px"/>
 </p>
 
 
