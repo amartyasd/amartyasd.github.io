@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amartya Shekhar Dubey"
+title                    : "Amartya "
 title_separator          : "-"
 name                     : &name "Amartya"
 description              : &description "Undergraduate Student at NISER"
@@ -83,7 +83,7 @@ author:
   name             : "Amartya"
   avatar           : "Simplicical_Spaces_Cellular_Spaces_Crystal_and_Liquid.jpg"
   bio              : "Integrated Master's Student"
-  location         : "Bhubaneswar,Odisha"
+  location         : "Planet Earth"
   employer         :
   googlescholar    :
   email            :  amartyashekhar.dubey@niser.ac.in
@@ -93,7 +93,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :  https://www.facebook.com/amartya.shekhar.2025
   foursquare       :
   github           : "amartyasd"
   google_plus      :
