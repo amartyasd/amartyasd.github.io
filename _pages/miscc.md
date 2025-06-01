@@ -35,12 +35,8 @@ redirect_from:
 * [Marco Nervo](https://sites.google.com/view/marconervo/home)
 * [Matthew Nimiero](https://niemiro.dev/)
 * [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
-* [Mikhail Igorevich Kornev](https://magisterlud.github.io/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
-* [Tim Hosgood](https://thosgood.com/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
-* [Thor Wittich](https://sites.google.com/view/thorwittich/)
-* [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
 * [Vitalii Guzeev](https://viviag.io/)
@@ -66,10 +62,12 @@ Some general math and other useful Links
 
 
 
-Poetry
+Poetry and Philosophy
 ======
 
 * [Boris Ryzhy's poetry](https://borisryzhy.com/POEMS): I keep visiting his work while I'm meandering inside my mind.
+* I read a lot of existentialist philosophy when I get time.
+* [List of books by Dostoyevsky, with downloadable links](https://www.gutenberg.org/ebooks/author/314)) 
 
 
 Art
@@ -77,3 +75,16 @@ Art
 
 * [Fomenko's Art](https://chronologia.org/en/math_impressions/images.html)
 * [Bob Bruner's A(1)-resolutions art](http://www.rrb.wayne.edu/art/index.html)
+
+
+Movies
+======
+
+* I am an admirer of Andrei Tarkovsky's work in cinema, and have watched almost all his movies.
+
+
+Music
+======
+
+* I play the guitar and the bass mostly. Some of my fav bands, in no particular order, are SOAD, Nirvana, Slipknot, Soundgarden, Breaking Benjamin, Starset, Green Day, Linkin Park (with Chester in it), My Chemical Romance, Deftones, Три дня дождя, Порнофильмы, Papa Roach, Sum 41, The Offspring, Bloodywood, Slipknot, Rise Against, Alkaline Trio, The Clockworks and TOOL.
+
