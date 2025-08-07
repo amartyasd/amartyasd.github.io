@@ -19,11 +19,14 @@ There's a Discord server for the seminar and a mailing list. To be added to any 
 References
 ======
 
+
 |   |  |
 | ------------- | ------------- |
-|[Tannaka Duality and 1-affineness](https://arxiv.org/abs/2311.04515) |  G.STEFANICH| 
-| [Derived Algebraic Geometry VIII:Quasi-Coherent Sheaves and Tannaka Duality Theorems](https://www.math.ias.edu/~lurie/papers/DAG-VIII.pdf)  | Jacob Lurie|
-| [A study in derived algebraic geometry Volume I: Correspondences and duality](https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf) | Dennis Gaitsgory, Nick Rozenblyum|
+|[Tannaka Duality and 1-affineness](https://arxiv.org/abs/2311.04515) | G.Stefanich| 
+| [Derived Algebraic Geometry VIII:Quasi-Coherent Sheaves and Tannaka Duality Theorems](https://www.math.ias.edu/~lurie/papers/DAG-VIII.pdf)  | Jacob Lurie  |
+| [A study in derived algebraic geometry Volume I: Correspondences and duality](https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf) |Dennis Gaitsgory, Nick Rozenblyum |
+
+
 
 ### Organisers 
 Amartya, [Connor](https://cse.umn.edu/math/connor-bass), Robin
