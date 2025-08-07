@@ -24,6 +24,6 @@ This page contains links to working/reading groups I'm (co)organising or have (c
 ======
 
 ### Current/Upcoming
- 
 
-
+[DAG seminar: Tannaka Duality for Geometric Stacks](/DAG1)
+======
