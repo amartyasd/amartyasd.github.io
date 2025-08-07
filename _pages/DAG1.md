@@ -16,4 +16,9 @@ Syllabus: TBA.
 
 There's a Discord server for the seminar and a mailing list. To be added to any of them, please contact Amartya.
 
+References
+======
 
+
+### Organisers 
+Amartya, [Connor](https://cse.umn.edu/math/connor-bass), Robin
