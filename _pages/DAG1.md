@@ -18,6 +18,7 @@ There's a Discord server for the seminar and a mailing list. To be added to any 
 
 References
 ======
+
 |   |  |
 | ------------- | ------------- |
 |[Tannaka Duality and 1-affineness](https://arxiv.org/abs/2311.04515) |  G.STEFANICH| 
