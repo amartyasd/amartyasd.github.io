@@ -30,4 +30,4 @@ References
 
 
 ### Organisers 
-Amartya, [Connor](https://cse.umn.edu/math/connor-bass), Robin
+Amartya, Robin
