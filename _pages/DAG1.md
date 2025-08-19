@@ -26,6 +26,7 @@ References
 |[Tannaka Duality and 1-affineness](https://arxiv.org/abs/2311.04515) | G.Stefanich| 
 | [Derived Algebraic Geometry VIII:Quasi-Coherent Sheaves and Tannaka Duality Theorems](https://www.math.ias.edu/~lurie/papers/DAG-VIII.pdf)  | Jacob Lurie  |
 | [A study in derived algebraic geometry Volume I: Correspondences and duality](https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf) |Dennis Gaitsgory, Nick Rozenblyum |
+| [Spectral Algebraic Geometry](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf) | Jacob Lurie  |
 
 
 
