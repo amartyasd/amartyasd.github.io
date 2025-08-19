@@ -15,7 +15,7 @@ Prerequisites for the seminar are a bare-bones knowledge of derived algebraic ge
 
 Syllabus: TBA. 
 
-There's a Discord server for the seminar and a mailing list. To be added to any of them, please contact Amartya.
+There's a Discord server for the seminar and a mailing list. To be added to any of them, don't hesitate to get in touch with Amartya.
 
 References
 ======
@@ -23,7 +23,7 @@ References
 
 |   |  |
 | ------------- | ------------- |
-|[Tannaka Duality and 1-affineness](https://arxiv.org/abs/2311.04515) | G.Stefanich| 
+|[Tannaka Duality and 1-affineness](https://arxiv.org/abs/2311.04515) | Germán Stefanich| 
 | [Derived Algebraic Geometry VIII:Quasi-Coherent Sheaves and Tannaka Duality Theorems](https://www.math.ias.edu/~lurie/papers/DAG-VIII.pdf)  | Jacob Lurie  |
 | [A study in derived algebraic geometry Volume I: Correspondences and duality](https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf) |Dennis Gaitsgory, Nick Rozenblyum |
 | [Spectral Algebraic Geometry](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf) | Jacob Lurie  |
