@@ -13,9 +13,9 @@ The goal of the seminar is to understand Stefanich's Tannaka duality statement, 
 
 Prerequisites for the seminar are a bare-bones knowledge of derived algebraic geometry and its objects, PS-there's some scope for compromise here, though, and an understanding of infinity-categories. For participants who need a speed run through the basic notions, [Jeroen Hekking's](https://www.jeroenhekking.nl/teaching/introduction-to-derived-algebraic-geometry) course notes are recommended.
 
-Syllabus: TBA. 
+[Syllabus](https://drive.google.com/file/d/1PINI04XaURZDBaZvQG-LdvijhlN_v5T6/view?usp=sharing) 
 
-There's a Discord server for the seminar and a mailing list. To be added to any of them, don't hesitate to get in touch with Amartya.
+There's a Discord server for the seminar. To be added, please don't hesitate to reach out to Amartya.
 
 References
 ======
