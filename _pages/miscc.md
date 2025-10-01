@@ -16,6 +16,7 @@ redirect_from:
 *  [Masterclass: Continuous K-theory, dualizable and rigid categories](https://www.math.ku.dk/english/calendar/events/masterclass-continuous-k-theory/); June 2024
 *  [Beyond the telescope conjecture: EHTW04](https://www.newton.ac.uk/event/EHTW04/);June 2025 
 *  [Young Topologsts Meeting, KTH](https://www.math-stockholm.se/ytm2025-1.1350169); June 2025
+*  [European Autumn School in Topology](https://www.math.ru.nl/~sagave/east2025/); September 2025
 
 
 
