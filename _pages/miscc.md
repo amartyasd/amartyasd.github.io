@@ -32,7 +32,6 @@ redirect_from:
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Liam Keenan](https://sites.google.com/view/liam-keenan/home)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
-* [Marco Nervo](https://sites.google.com/view/marconervo/home)
 * [Matthew Nimiero](https://niemiro.dev/)
 * [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
 * [Niklas Kipp](https://homepages.uni-regensburg.de/~kin10726/)
@@ -41,6 +40,7 @@ redirect_from:
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
 * [Vitalii Guzeev](https://viviag.io/)
+* [Zoë Pope](http://zoe-pope.github.io)
   
 
 
