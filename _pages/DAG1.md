@@ -7,7 +7,7 @@ redirect_from:
   - /DAG1
 ---
 
-This is the website for the DAG seminar centred around Tannaka duality for geometric stacks, starting tentatively in mid-October or early-November.
+This is the website for the DAG seminar centred around Tannaka duality for geometric stacks, starting in early November.
 
 The goal of the seminar is to understand Stefanich's Tannaka duality statement, which refines Lurie's result by eliminating the tameness hypotheses, by means of an affineness result. 
 
@@ -15,7 +15,25 @@ Prerequisites for the seminar are a bare-bones knowledge of derived algebraic ge
 
 [Syllabus](https://drive.google.com/file/d/1PINI04XaURZDBaZvQG-LdvijhlN_v5T6/view?usp=sharing) 
 
-There's a Discord server for the seminar. To be added, please don't hesitate to reach out to Amartya.
+There's a Discord server for the seminar. To be added, please don't hesitate to reach out to Amartya. 
+
+We're meeting over Zoom on Tuesdays, 16:30-18:00 UTC. Feel free to reach out to Amartya for the Zoom link.
+
+## Schedule
+
+Date  | Title of the talk | Speaker | Notes and Video 
+--- | --- | --- | --- 
+*November 4* | Introduction and goals of the seminar | Amartya |  
+*November 11* | Grothendieck Prestable Categories - I | Giovanni | 
+*November 18* | Grothendieck Prestable Categories - II| Gustav |
+*November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| Alex | 
+*December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  |
+*December 09* | Completed Relative Tensor Products | Swami | 
+*December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | 
+*January 6* |Sheaves of Grothendieck prestable categories | Amartya |
+*January 13* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I |  | 
+*January 20* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness II |  |
+*January 27* | Tannaka Duality |  |
 
 References
 ======
