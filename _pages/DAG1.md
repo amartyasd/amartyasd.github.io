@@ -26,7 +26,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *November 4* | Introduction and goals of the seminar | Amartya |  
 *November 11* | Grothendieck Prestable Categories - I | Giovanni | 
 *November 18* | Grothendieck Prestable Categories - II| Gustav |
-*November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| Alex | 
+*November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| Alexander | 
 *December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  |
 *December 09* | Completed Relative Tensor Products | Swami | 
 *December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | 
