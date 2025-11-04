@@ -23,7 +23,7 @@ We're meeting over Zoom on Tuesdays, 16:30-18:00 UTC. Feel free to reach out to 
 
 Date  | Title of the talk | Speaker | Notes and Video 
 --- | --- | --- | --- 
-*November 4* | Introduction and goals of the seminar | Amartya |  
+*November 4* | Introduction and goals of the seminar | Amartya |  [Video](https://youtu.be/baN1Pp6ubE0)
 *November 11* | Grothendieck Prestable Categories - I | Giovanni | 
 *November 18* | Grothendieck Prestable Categories - II| Gustav |
 *November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| Alexander | 
