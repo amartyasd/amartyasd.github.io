@@ -24,7 +24,7 @@ We're meeting over Zoom on Tuesdays, 16:30-18:00 UTC. Feel free to reach out to 
 Date  | Title of the talk | Speaker | Notes and Video 
 --- | --- | --- | --- 
 *November 4* | Introduction and goals of the seminar | Amartya |  [Video](https://youtu.be/baN1Pp6ubE0)
-*November 11* | Grothendieck Prestable Categories - I | Giovanni | 
+*November 11* | Grothendieck Prestable Categories - I | Giovanni | [Video](https://www.youtube.com/watch?v=g0h88oHaYnA), [Notes](https://www.dropbox.com/scl/fi/7kvqsrck5f6yf4s98kknk/Note-11-Nov-2025-1.pdf?rlkey=n15iljx35p4yvzhpv6vd6x1b0&st=mojltlsl&dl=0)
 *November 18* | Grothendieck Prestable Categories - II| Gustav |
 *November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| Alexander | 
 *December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  |
