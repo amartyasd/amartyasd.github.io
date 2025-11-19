@@ -31,7 +31,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *December 09* | Completed Relative Tensor Products | Swami | 
 *December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | 
 *January 6* |Sheaves of Grothendieck prestable categories | Nikolaus |
-*January 13* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I |  | 
+*January 13* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I | Timon | 
 *January 20* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness II |  |
 *January 27* | Tannaka Duality | Amartya |
 
