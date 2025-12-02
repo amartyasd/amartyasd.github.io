@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAG Seminar: Tannaka Duality for Geometric Stacks</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+        
+        body {
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #2c3e50;
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 1.1rem;
+        }
+        
+        section {
+            margin-bottom: 40px;
+        }
+        
+        h2 {
+            color: #2c3e50;
+            margin: 30px 0 15px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 0.95rem;
+        }
+        
+        th {
+            background: #f8f9fa;
+            text-align: left;
+            padding: 12px;
+            border-bottom: 2px solid #ddd;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+            vertical-align: top;
+        }
+        
+        tr:hover {
+            background-color: #f9f9f9;
+        }
+        
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        .date {
+            width: 100px;
+            font-weight: 500;
+        }
+        
+        .speaker {
+            width: 120px;
+        }
+        
+        footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            table {
+                font-size: 0.85rem;
+            }
+            
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DAG Seminar: Tannaka Duality for Geometric Stacks</h1>
+        <p class="subtitle">Seminar Website</p>
+    </header>
+
+    <main>
+        <section>
+            <p>This is the website for the DAG seminar centred around Tannaka duality for geometric stacks.</p>
+            
+            <p>The goal of the seminar is to understand Stefanich's Tannaka duality statement, which refines Lurie's result by eliminating the tameness hypotheses, by means of an affineness result.</p>
+            
+            <p>Prerequisites for the seminar are a bare-bones knowledge of derived algebraic geometry and an understanding of infinity-categories.</p>
+            
+            <p><strong>Quick Links:</strong> 
+                <a href="https://drive.google.com/file/d/1PINI04XaURZDBaZvQG-LdvijhlN_v5T6/view">Syllabus</a> • 
+                <a href="https://www.jeroenhekking.nl/teaching/introduction-to-derived-algebraic-geometry">Course Notes</a> • 
+                <strong>Meeting Time:</strong> Tuesdays, 16:30-18:00 UTC
+            </p>
+        </section>
+
+        <section>
+            <h2>Schedule</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Title</th>
+                        <th>Speaker</th>
+                        <th>Materials</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="date">November 4</td>
+                        <td>Introduction and goals of the seminar</td>
+                        <td class="speaker">Seminar Organizer</td>
+                        <td><a href="https://youtu.be/baN1Pp6ubE0">Video</a></td>
+                    </tr>
+                    <tr>
+                        <td class="date">November 11</td>
+                        <td>Grothendieck Prestable Categories - I</td>
+                        <td class="speaker">Giovanni</td>
+                        <td>
+                            <a href="https://www.youtube.com/watch?v=g0h88oHaYnA">Video</a>, 
+                            <a href="https://www.dropbox.com/scl/fi/7kvqsrck5f6yf4s98kknk/Note-11-Nov-2025-1.pdf?rlkey=n15iljx35p4yvzhpv6vd6x1b0&st=mojltlsl&dl=0">Notes</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="date">November 18</td>
+                        <td>Grothendieck Prestable Categories - II</td>
+                        <td class="speaker">Gustav</td>
+                        <td>
+                            <a href="https://youtu.be/ebQ2x4OIGHA">Video</a>, 
+                            <a href="https://www.dropbox.com/scl/fi/8tjte0uy92oc1xwju9rqp/Stefanich-Tannaka-Duality-Grothendieck-Prestable-Categories-II.pdf?rlkey=vw03n9ozj7uc68nnm86pr2a5y&st=i8rvkbvl&dl=0">Notes</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="date">November 25</td>
+                        <td>The 2-category Groth<sup>st</sup><sub>comp</sub></td>
+                        <td class="speaker">Alexander</td>
+                        <td>
+                            <a href="https://youtu.be/xkBEO9sT2G4">Video</a>, 
+                            <a href="https://www.dropbox.com/scl/fi/e51zr4izb765m8patjhxi/Talk-final-2.pdf?rlkey=dz88qmn8ov7175rw9fythicup&st=eec51sy7&dl=0">Notes</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="date">December 02</td>
+                        <td>Almost rigid algebras</td>
+                        <td class="speaker">Grigory</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="date">December 09</td>
+                        <td>Completed Relative Tensor Products</td>
+                        <td class="speaker">Swami</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="date">December 16</td>
+                        <td>Admissibility of QCoh(X)<sup>cn</sup></td>
+                        <td class="speaker">Robin</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="date">January 6</td>
+                        <td>Sheaves of Grothendieck prestable categories</td>
+                        <td class="speaker">Nikolaus</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="date">January 13</td>
+                        <td>2QCoh<sup>Pst</sup><sub>comp</sub>-Affineness I</td>
+                        <td class="speaker">Timon</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="date">January 20</td>
+                        <td>2QCoh<sup>Pst</sup><sub>comp</sub>-Affineness II</td>
+                        <td class="speaker">Marine</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="date">January 27</td>
+                        <td>Tannaka Duality</td>
+                        <td class="speaker">Seminar Organizer</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>References</h2>
+            <table>
+                <tr>
+                    <td><strong>Tannaka Duality and 1-affineness</strong></td>
+                    <td>Germán Stefanich</td>
+                    <td><a href="https://arxiv.org/abs/2311.04515">arXiv</a></td>
+                </tr>
+                <tr>
+                    <td><strong>Derived Algebraic Geometry VIII</strong></td>
+                    <td>Jacob Lurie</td>
+                    <td><a href="https://www.math.ias.edu/~lurie/papers/DAG-VIII.pdf">PDF</a></td>
+                </tr>
+                <tr>
+                    <td><strong>A study in derived algebraic geometry Vol I</strong></td>
+                    <td>Dennis Gaitsgory, Nick Rozenblyum</td>
+                    <td><a href="https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf">PDF</a></td>
+                </tr>
+                <tr>
+                    <td><strong>Spectral Algebraic Geometry</strong></td>
+                    <td>Jacob Lurie</td>
+                    <td><a href="https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf">PDF</a></td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h2>Participation</h2>
+            <p>For access to the Zoom meetings and Discord server, please contact the seminar organizers.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>DAG Seminar on Tannaka Duality for Geometric Stacks</p>
+        <p>© 2023 Seminar Organizers</p>
+    </footer>
+</body>
+</html>
