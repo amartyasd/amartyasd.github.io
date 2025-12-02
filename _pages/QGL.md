@@ -3,6 +3,8 @@ layout: archive
 title: "Quantum Geometric Langlands Seminar"
 permalink: /QGL/
 author_profile: false  # Change from true to false
+redirect_from:
+  - /QGL
 ---
 
 This is the website for the Quantum Geometric Langlands Seminar.
