@@ -9,15 +9,14 @@ redirect_from:
 
 This is the website for the Quantum Geometric Langlands Seminar.
 
-The goal for the seminar could be to set up the conjecture and its desired global-to-local properties, and prove as much as possible in the case of G=T.
+The goal for the seminar could be to set up the conjecture and its desired global-to-local properties, and prove as much as possible in the case of $G=T$.
 
 ## Schedule
 
 | Date | Title | Speaker | Materials |
 |------|-------|---------|-----------|
-| *November 4* | Introduction and goals of the seminar | Seminar Organizer | [Video](https://youtu.be/baN1Pp6ubE0) |
-| *November 11* | Grothendieck Prestable Categories - I | Giovanni | [Video](https://www.youtube.com/watch?v=g0h88oHaYnA), [Notes](https://www.dropbox.com/scl/fi/7kvqsrck5f6yf4s98kknk/Note-11-Nov-2025-1.pdf?rlkey=n15iljx35p4yvzhpv6vd6x1b0&st=mojltlsl&dl=0) |
-| ... keep other rows ... |
+| *December 9* |  |  | [Video] |
+
 
 ## References
 
