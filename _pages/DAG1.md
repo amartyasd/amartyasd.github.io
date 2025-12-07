@@ -27,7 +27,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *November 11* | Grothendieck Prestable Categories - I | Giovanni | [Video](https://www.youtube.com/watch?v=g0h88oHaYnA), [Notes](https://www.dropbox.com/scl/fi/7kvqsrck5f6yf4s98kknk/Note-11-Nov-2025-1.pdf?rlkey=n15iljx35p4yvzhpv6vd6x1b0&st=mojltlsl&dl=0)
 *November 18* | Grothendieck Prestable Categories - II| Gustav | [Video](https://youtu.be/ebQ2x4OIGHA), [Notes](https://www.dropbox.com/scl/fi/8tjte0uy92oc1xwju9rqp/Stefanich-Tannaka-Duality-Grothendieck-Prestable-Categories-II.pdf?rlkey=vw03n9ozj7uc68nnm86pr2a5y&st=i8rvkbvl&dl=0)
 *November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| [Alexander](https://alexanderzahrer.github.io/maths/) | [Video](https://youtu.be/xkBEO9sT2G4), [Notes](https://www.dropbox.com/scl/fi/e51zr4izb765m8patjhxi/Talk-final-2.pdf?rlkey=dz88qmn8ov7175rw9fythicup&st=eec51sy7&dl=0)
-*December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  |
+*December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  | [Video](https://youtu.be/kS4TFqj4YPg)
 *December 09* | Completed Relative Tensor Products | Swami | 
 *December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | 
 *January 6* |Sheaves of Grothendieck prestable categories | Nikolaus |
