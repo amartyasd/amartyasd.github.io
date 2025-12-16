@@ -29,7 +29,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *November 25* |The $2$-category $\mathrm{Groth}^{\mathrm{st}}_{\mathrm{comp}}$| [Alexander](https://alexanderzahrer.github.io/maths/) | [Video](https://youtu.be/xkBEO9sT2G4), [Notes](https://www.dropbox.com/scl/fi/e51zr4izb765m8patjhxi/Talk-final-2.pdf?rlkey=dz88qmn8ov7175rw9fythicup&st=eec51sy7&dl=0)
 *December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  | [Video](https://youtu.be/kS4TFqj4YPg), [Notes](https://www.dropbox.com/scl/fi/2zrocwptb0mvfoytechtc/Local_Rigidity_Presentation.pdf?rlkey=ohjt493s0t0z5hoe054ouhwmd&st=bz0poq2k&dl=0)
 *December 09* | Completed Relative Tensor Products | Swami | [Video](https://youtu.be/yFn9iO054hg), [Notes](https://www.dropbox.com/scl/fi/soz6lp4tqv2i57onszbd3/Completed-Relative-Tensor-Products.pdf?rlkey=wkgrpr8omqodogcrgtqawabcg&st=cx9l5o2g&dl=0)
-*December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | 
+*December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | [Video](https://youtu.be/ovVO7oWoEX0)
 *January 6* |Sheaves of Grothendieck prestable categories | Nikolaus |
 *January 13* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I | Timon | 
 *January 20* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness II |  |
