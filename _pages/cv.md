@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Here's my most recent \(extended\)[CV](https://www.dropbox.com/scl/fi/vsojlmw9ycfdd1rl9flj5/CV_extended.pdf?rlkey=4mq3bk77kpfsef45adpsj58cd&st=gevsints&dl=0)
+Here's my most recent \(extended\)[CV](https://www.dropbox.com/scl/fi/scpq906jppxc68phq9pag/CV_Jan-26.pdf?rlkey=mp5o0zd9d698v1v0bxoqy2yqj&st=1uw6c0ei&dl=0)
 
 Warning: Everything below is out of date. Just click the above link
 
