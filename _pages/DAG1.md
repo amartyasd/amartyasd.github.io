@@ -30,7 +30,7 @@ Date  | Title of the talk | Speaker | Notes and Video
 *December 02* | Almost rigid algebras | [Grigory](https://www.grishataroyan.org/)  | [Video](https://youtu.be/kS4TFqj4YPg), [Notes](https://www.dropbox.com/scl/fi/2zrocwptb0mvfoytechtc/Local_Rigidity_Presentation.pdf?rlkey=ohjt493s0t0z5hoe054ouhwmd&st=bz0poq2k&dl=0)
 *December 09* | Completed Relative Tensor Products | Swami | [Video](https://youtu.be/yFn9iO054hg), [Notes](https://www.dropbox.com/scl/fi/soz6lp4tqv2i57onszbd3/Completed-Relative-Tensor-Products.pdf?rlkey=wkgrpr8omqodogcrgtqawabcg&st=cx9l5o2g&dl=0)
 *December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | [Video](https://youtu.be/ovVO7oWoEX0)
-*January 6* |Sheaves of Grothendieck prestable categories | Nikolaus |
+*January 6* |Sheaves of Grothendieck prestable categories | Nikolaus | [Notes](https://www.dropbox.com/scl/fi/1dcwtcpxgle2hdnxa4dnm/NotesSheavesOfGrothendieck.pdf?rlkey=jucts7cna47o5iwrxhfe4r6y5&st=r5nvx1pi&dl=0)
 *January 13* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I | Timon | 
 *January 20* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness II | Robin |
 *January 27* | Tannaka Duality | Amartya |
