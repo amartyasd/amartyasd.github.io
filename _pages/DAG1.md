@@ -31,9 +31,9 @@ Date  | Title of the talk | Speaker | Notes and Video
 *December 09* | Completed Relative Tensor Products | Swami | [Video](https://youtu.be/yFn9iO054hg), [Notes](https://www.dropbox.com/scl/fi/soz6lp4tqv2i57onszbd3/Completed-Relative-Tensor-Products.pdf?rlkey=wkgrpr8omqodogcrgtqawabcg&st=cx9l5o2g&dl=0)
 *December 16* | Admissibility of $\mathrm{QCoh}(X)^{\mathrm{cn}}$  | Robin | [Video](https://youtu.be/ovVO7oWoEX0)
 *January 6* |Sheaves of Grothendieck prestable categories | Nikolaus | [Notes](https://www.dropbox.com/scl/fi/1dcwtcpxgle2hdnxa4dnm/NotesSheavesOfGrothendieck.pdf?rlkey=jucts7cna47o5iwrxhfe4r6y5&st=r5nvx1pi&dl=0)
-*January 13* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I | Timon |  [Notes](https://www.dropbox.com/scl/fi/oae2p4tc7gxah71u5k27d/Presentation_Tannaka-12.pdf?rlkey=ezgz9r6pbh4vf3zqfc6ynzsw8&st=b6oqr5x1&dl=0)
-*January 20* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness II | Robin |
-*January 27* | Tannaka Duality | Amartya |
+*January 20* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness I | Timon |  [Notes](https://www.dropbox.com/scl/fi/oae2p4tc7gxah71u5k27d/Presentation_Tannaka-12.pdf?rlkey=ezgz9r6pbh4vf3zqfc6ynzsw8&st=b6oqr5x1&dl=0)
+*January 27* | $2\mathrm{QCoh}^{\mathrm{Pst}}_{\mathrm{comp}}$-Affineness II | Robin | [Video](https://youtu.be/DKt94Ry-8w8)
+*February 3* | Tannaka Duality | Amartya |
 
 References
 ======
