@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Synthetic Seminar: Synthetic Modular Forms Computations"
+title: "Synthetic Seminar: Synthetic Modular Forms and Computations"
 permalink: /SMF/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-This is the website for the Synthetic Seminar: Synthetic Modular Forms Computations, tentatively starting in April.
+This is the website for the Synthetic Seminar: Synthetic Modular Forms, tentatively starting in April.
 
 The goal of the seminar is to understand Carrick-Davies-van Nigtevecht's synthetic modular forms computations. The canonical reference is van Nigtevecht's PhD thesis.
 
@@ -22,7 +22,7 @@ The goal of the seminar is to understand Carrick-Davies-van Nigtevecht's synthet
 ">
     <img src="images/generated-image-1.png" width="100" />
 </div>
-Prerequisites for the seminar are a a background in stable homotopy theory and familiarity with stacks and sheaf cohomology.
+Prerequisites for the seminar are a background in stable homotopy theory and familiarity with stacks and sheaf cohomology.
 
 [Tentative Syllabus](https://www.dropbox.com/scl/fi/12sovj5672g47uauc35mv/Syllabus_for_the_SMF_seminar-2.pdf?rlkey=xspefw0pk31fp0j3tr8f52gyk&st=44jjfvg9&dl=0) 
 
