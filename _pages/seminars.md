@@ -28,7 +28,7 @@ This page contains links to working/reading groups I'm (co)organising or have (c
 [DAG seminar: Tannaka Duality for Geometric Stacks](/DAG1)
 ======
 
-[Synthetic Modular Forms Seminar](/SMF)
+[Synthetic Modular Forms Seminar](/SMF/)
 ======
 
 
