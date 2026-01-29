@@ -1,0 +1,43 @@
+
+---
+layout: archive
+title: "DAG Seminar: Tannaka Duality for Geometric Stacks"
+permalink: /DAG1/
+author_profile: true
+redirect_from:
+  - /DAG1
+---
+
+This is the website for the Synthetic Seminar: Synthetic Modular Forms Computations, tentatively starting in April.
+
+The goal of the seminar is to understand Carrick-Davies-van Nigtevecht's synthetic modular forms computations. The canonical reference is van Nigtevecht's PhD thesis.
+Prerequisites for the seminar are a a background in stable homotopy theory and familiarity with stacks and sheaf cohomology.
+
+[Tentative Syllabus](https://www.dropbox.com/scl/fi/12sovj5672g47uauc35mv/Syllabus_for_the_SMF_seminar-2.pdf?rlkey=xspefw0pk31fp0j3tr8f52gyk&st=44jjfvg9&dl=0) 
+
+There's supposed to be a Discord server for the seminar. To be added, please don't hesitate to reach out to Amartya. 
+
+We'll meet over Zoom, with the exact schedule TBD. Feel free to reach out to Amartya for the Zoom link.
+
+## Schedule
+
+Date  | Title of the talk | Speaker | Notes and Video 
+--- | --- | --- | --- 
+*Date* | Dummy Title | Dummy Speaker |  Video, Notes links
+
+
+Primary References
+======
+
+
+|   |  |
+| ------------- | ------------- |
+|The descent spectral sequence for topological modular forms |Christian Carrick, Jack Morgan Davies, and Sven van Nigtevecht| 
+| Descent spectral sequences through synthetic spectra| Christian Carrick, Jack Morgan Davies, and Sven van Nigtevecht |
+| Synthetic modular forms-Doctoral Thesis |Sven van Nigtevecht|
+| Synthetic spectra and the cellular motivic category | Piotr Pstrągowski | 
+
+
+
+### Organiser
+Amartya
