@@ -1,11 +1,11 @@
 
 ---
 layout: archive
-title: "DAG Seminar: Tannaka Duality for Geometric Stacks"
-permalink: /DAG1/
+title: "Synthetic Seminar: Synthetic Modular Forms Computations"
+permalink: /SMF/
 author_profile: true
 redirect_from:
-  - /DAG1
+  - /SMF
 ---
 
 This is the website for the Synthetic Seminar: Synthetic Modular Forms Computations, tentatively starting in April.
