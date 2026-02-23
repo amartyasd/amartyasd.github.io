@@ -21,7 +21,7 @@ redirect_from:
 
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. My current thesis advisors are [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/).
 
-I work in chromatic/motivic homotopy theory, Algebraic K-Theory, and Higher Categorical Theory. Currently, my thesis work revolves around (higher) Topological Jacobi forms and equivariant TMF computations. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, some THH computations, which will presumably shed some light on redshift phenomena and higher height cardinality computations in Ambidexterity.
+I work in chromatic/motivic homotopy theory, Algebraic K-Theory, and Higher Category Theory. Currently, my thesis work revolves around (higher) Topological Jacobi forms and equivariant TMF computations. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, some THH computations, which will presumably shed some light on redshift phenomena and higher height cardinality computations in Ambidexterity.
 
 In the past, I have organised seminars on Burklund-Yuan-Schlank's Chromatic Nullstellensatz, which still makes the kid in me jump. I am also somewhat interested in  Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases, and recent progress after the resolution of THE Telescope conjecture.
 
