@@ -88,5 +88,5 @@ Movies
 Music
 ======
 
-* I play the guitar and the bass mostly. Some of my fav bands, in no particular order, are SOAD, Nirvana, Slipknot, Soundgarden, Breaking Benjamin, Starset, Green Day, Linkin Park (with Chester in it), My Chemical Romance, Deftones, Три дня дождя, Порнофильмы, Papa Roach, Sum 41, The Offspring, Bloodywood, Slipknot, Rise Against, Alkaline Trio, The Clockworks and TOOL.
+* I play the guitar and the bass mostly. I am a combination of a grungehead, punkhead and alternative/nu-metalhead. Some of my fav bands and artists, in no particular order, are Alice in Chains, Soundgarden, Nirvana, Pearl Jam, Local H, Audislave, Slipknot, Staind, SuperHeavven, Breaking Benjamin, Three Day Grace, Bush, Foo Fighters,  Starset, Green Day, Linkin Park (with Chester in it), Limp Bizkit, My Chemical Romance, Deftones, Три дня дождя, Teni Svobody, Lumen, Kino, Порнофильмы, Papa Roach, Sum 41, The Offspring, Bloodywood, Rise Against, Alkaline Trio, Radiohead, Eurotripp, The Clockworks, Ashes Remain and TOOL. 
 
