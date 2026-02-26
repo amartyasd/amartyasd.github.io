@@ -20,7 +20,7 @@ redirect_from:
 
 
 
-#  Web pages of some friends 
+#  Webpages of Friends
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
@@ -28,13 +28,10 @@ redirect_from:
 * [Fernando Abellán](https://fernandoabellan.de/)
 * [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
-* [Jaco Ruit](https://sites.google.com/view/jacoruit/home)
 * [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
-* [Liam Keenan](https://sites.google.com/view/liam-keenan/home)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Matthew Nimiero](https://niemiro.dev/)
-* [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/)
 * [Niklas Kipp](https://homepages.uni-regensburg.de/~kin10726/)
 * [Toni Annala](https://www.math.ias.edu/~tannala/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
@@ -67,8 +64,8 @@ Some general math and other useful Links
 Poetry and Philosophy
 ======
 
-* [Boris Ryzhy's poetry](https://borisryzhy.com/POEMS): I keep visiting his work while I'm meandering inside my mind.
-* I read a lot of existentialist philosophy when I get time.
+* [Boris Ryzhy's poetry](https://borisryzhy.com/POEMS): I keep visiting his once in a while.
+* I read a lot of philosophy when I get time.
 * [List of books by Dostoyevsky, with downloadable links](https://www.gutenberg.org/ebooks/author/314)) 
 
 
