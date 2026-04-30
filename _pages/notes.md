@@ -32,7 +32,7 @@ Notes, talks and Writings
 
 Publications, Theses, Preprints and Works in Progress
 ======
-* [Master's Thesis](https://www.dropbox.com/scl/fi/sw4rjbe2kjl170uaur7ky/Thesis_Final.pdf?rlkey=541ij5wb2bpl6s1azm3vvwjf6&st=woh7qoj9&dl=0)
+* [Master's Thesis](https://www.dropbox.com/scl/fi/c2ymrb9kztamjnd71xqdx/Thesis_Final.pdf?rlkey=a9zu7uboi1wg3vx6b3s9hud68&st=2ybmj52d&dl=0)
 
 
 For more, look at my CV :pppp
