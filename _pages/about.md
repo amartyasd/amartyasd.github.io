@@ -21,18 +21,16 @@ redirect_from:
 
 I am an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. My current thesis advisors are [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/).
 
-I work in chromatic/motivic homotopy theory, Algebraic K-Theory, and Higher Category Theory. Currently, my thesis work revolves around (higher) Topological Jacobi forms and equivariant TMF computations. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, some THH computations, which will presumably shed some light on redshift phenomena and higher height cardinality computations in Ambidexterity.
+I work in chromatic/motivic homotopy theory, algebraic K-theory, higher category theory, and Topological Aspects of Physics. My Master's thesis work revolves around (higher) Topological Jacobi forms and equivariant TMF computations. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, some THH computations, and higher height (higher) cardinality computations in Ambidexterity.
 
-In the past, I have organised seminars on Burklund-Yuan-Schlank's Chromatic Nullstellensatz, which still makes the kid in me jump. I am also somewhat interested in  Galois descent in telescopically localised algebraic K-theory and Freed-Hopkins reflection positivity and invertible phases, and recent progress after the resolution of THE Telescope conjecture.
+In the past, I have organised seminars on Higher Categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF and Stefanich-Tannaka duality for Geometric Stacks. I am also somewhat interested in  Real Syntomic and equivariant motivic spectra.
 
-Also, I have worked on a model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, under the guidance of J.D. Quigley, and on Freed-Hopkins theory and HoTT semantics, under the guidance of Ulrik Buchholtz.
-
-I also find Applied Category Theory, in general, really interesting.
+Also, I have worked on a model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, under J.D. Quigley, and on Freed-Hopkins theory and HoTT semantics, under Ulrik Buchholtz.
 
 Apart from these, there are other ambitious projects and ventures that I wish to take up when my schedule permits, which, ofc, I don't want to list. My view of Mathematics is broad, and I'm always open to ideas and themes coming from unknown waters in the unfathomable ocean of mathematics. I believe, after all, there are infinitely many things in the mathematical universe to pursue.
 
 
-Aside from my primary preoccupations and interests, I'm also interested in Music, a hot mess of Schopenhauerian and Mainlaenderian Existentialist philosophy and, to some extent, Linguistics.
+Aside from my primary preoccupations and interests, I'm also interested in Music, philosophy and, to some extent, Linguistics.
 
 NOTE: I recently updated everything you see above. Thanks for stopping by. The stuff below, maybe later :P 
 
