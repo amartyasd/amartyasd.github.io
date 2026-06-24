@@ -17,14 +17,17 @@ redirect_from:
 *  [Beyond the telescope conjecture: EHTW04](https://www.newton.ac.uk/event/EHTW04/);June 2025 
 *  [Young Topologsts Meeting, KTH](https://www.math-stockholm.se/ytm2025-1.1350169); June 2025
 *  [European Autumn School in Topology](https://www.math.ru.nl/~sagave/east2025/); September 2025
+*  [Elliptic Objects, von Neumann Algebras, and Functorial Field Theory](https://sites.google.com/uniroma1.it/enfft/enfft); July 2026 
 
 
+#  Collaborators
+
+* [Mattie Ji](https://github.com/maroon-scorch)
+* [Yu Leon Liu](https://leon2k2k2k.github.io/)
 
 #  Webpages of Friends
   
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
-* [Ben Spitz](https://www.math.ucla.edu/~benspitz/)
-* [Connor Malin](https://cwmalin214.github.io/)
 * [Fernando Abellán](https://fernandoabellan.de/)
 * [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
@@ -32,8 +35,7 @@ redirect_from:
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Matthew Nimiero](https://niemiro.dev/)
-* [Niklas Kipp](https://homepages.uni-regensburg.de/~kin10726/)
-* [Toni Annala](https://www.math.ias.edu/~tannala/)
+* [Mattie Ji](https://github.com/maroon-scorch)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
