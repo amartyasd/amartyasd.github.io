@@ -27,6 +27,7 @@ redirect_from:
 
 #  Webpages of Friends
   
+* [A Rameswar Patro](https://arameswar-patro.github.io/)
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Fernando Abellán](https://fernandoabellan.de/)
 * [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
