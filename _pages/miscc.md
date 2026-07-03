@@ -26,7 +26,7 @@ redirect_from:
 * [Yu Leon Liu](https://leon2k2k2k.github.io/)
 
 #  Webpages of Friends
-  
+
 * [A Rameswar Patro](https://arameswar-patro.github.io/)
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Fernando Abellán](https://fernandoabellan.de/)
