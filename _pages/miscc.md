@@ -37,6 +37,7 @@ redirect_from:
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Matthew Nimiero](https://niemiro.dev/)
 * [Mattie Ji](https://github.com/maroon-scorch)
+* [Siddharth Gurumuthy](https://siddharth64.github.io/)
 * [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
