@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am an upcoming PhD student at Norwegian University of Science and Technology, where I will be working with [Drew Heard](https://drewkh.folk.ntnu.no/). Before that, I was an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. I wrote my Master's Thesis with [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/), with Lennart being my formal advisor.
+I am an upcoming PhD student at the Norwegian University of Science and Technology, where I will be working with [Drew Heard](https://drewkh.folk.ntnu.no/). Before that, I was an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. I wrote my Master's Thesis with [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/), with Lennart being my formal advisor.
 
 I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectral algebraic geometry, higher category theory, and topological aspects of physics. My Master's thesis revolves around higher Topological Jacobi form computations à la Meier. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, towards a synthetic classification of algebraic Landweber-exact equivariant motivic spectra, and higher chromatic height cardinality computations in Ambidexterity.
 
