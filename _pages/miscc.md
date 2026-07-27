@@ -29,6 +29,7 @@ redirect_from:
 
 * [A Rameswar Patro](https://arameswar-patro.github.io/)
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
+* [Daniel Teixeira](https://weak-equivalent.github.io/)
 * [Fernando Abellán](https://fernandoabellan.de/)
 * [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
