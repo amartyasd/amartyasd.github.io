@@ -33,7 +33,6 @@ redirect_from:
 * [Fernando Abellán](https://fernandoabellan.de/)
 * [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
-* [Logan Hyslop](https://loganhyslop.github.io/)
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Matthew Nimiero](https://niemiro.dev/)
