@@ -40,7 +40,7 @@ redirect_from:
 * [Mattie Ji](https://github.com/maroon-scorch)
 * [Pritipriya Dasbehera](https://pritipriya-dasbehera.github.io/)
 * [Siddharth Gurumuthy](https://siddharth64.github.io/)
-* [Torgeir Aambø](https://folk.ntnu.no/torgeaam/)
+* [Torgeir Aambø](https://torgeiraamboe.github.io/)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
 * [Vitalii Guzeev](https://viviag.io/)
@@ -61,7 +61,7 @@ Some general math and other useful Links
 * [eCHT](https://s.wayne.edu/echt/)
 * [Mark Hovey's Problem List](https://www-users.cse.umn.edu/~tlawson/hovey/)
 * [Doug Ravenel's archives](https://people.math.rochester.edu/faculty/doug/papers.html)
-* [Torgeir's Blog](https://torgeiraamboe.github.io/)
+* [Torgeir's Blog](https://torgeiraamboe.github.io/posts/)
 * [Adams charts](https://s.wayne.edu/isaksen/adams-charts/):  If you're me, you visit this too often.
 * Website for the Young Homotopy Theorists seminar [YoungHom](https://younghomseminar.github.io/) 
 
