@@ -84,11 +84,11 @@ Art
 Movies
 ======
 
-* I am an admirer of Andrei Tarkovsky's work in cinema, and have watched almost all his movies.
+* I am an admirer of Andrei Tarkovsky's work in cinema, and have watched almost all his movies. Other influential people include Béla Tarr, Sergei Parajanov, Elem Klimov and David Lynch.
 
 
 Music
 ======
 
-* I play the guitar and the bass mostly. I am a combination of a grungehead, punkhead and alternative/nu-metalhead. Some of my fav bands and artists, in no particular order, are Alice in Chains, Soundgarden, Nirvana, Pearl Jam, Local H, Audislave, Slipknot, Staind, SuperHeavven, Breaking Benjamin, Three Day Grace, Bush, Foo Fighters,  Starset, Green Day, Linkin Park (with Chester in it), Limp Bizkit, My Chemical Romance, Deftones, Три дня дождя, Teni Svobody, Lumen, Kino, Порнофильмы, Papa Roach, Sum 41, The Offspring, Bloodywood, Rise Against, Alkaline Trio, Radiohead, Eurotripp, The Clockworks, Ashes Remain and TOOL. 
+* I play the guitar and the bass mostly. I am a combination of a grungehead, punkhead and alternative/nu-metalhead. Some of my fav bands and artists, in no particular order, are Alice in Chains, Soundgarden, Nirvana, Pearl Jam, Local H, Audioslave, Slipknot, Staind, SuperHeavven, Breaking Benjamin, Three Day Grace, Bush, Foo Fighters,  Starset, Green Day, Linkin Park, Limp Bizkit, My Chemical Romance, Deftones, Три дня дождя, Teni Svobody, Lumen, Kino, Порнофильмы, Papa Roach, Sum 41, The Offspring, Bloodywood, Rise Against, Alkaline Trio, Radiohead, Eurotripp, The Clockworks, Ashes Remain and TOOL. 
 
