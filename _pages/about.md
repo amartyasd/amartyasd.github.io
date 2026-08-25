@@ -49,7 +49,7 @@ NOTE: I recently updated everything you see above. Thanks for stopping by. The s
 
 
 
-\(Last updated on June 14, 2023\)
+\(Reading list last updated on June 14, 2023\)
 
 \(Note: I am not even trying to keep the above list updated because I just can't and because it's always an incomplete list. This is a mere expression of the flavour of things I am or am willing to spend my energy on at this moment.\) 
 
