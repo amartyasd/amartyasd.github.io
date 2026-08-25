@@ -28,6 +28,7 @@ redirect_from:
 #  Webpages of Friends
 
 * [A Rameswar Patro](https://arameswar-patro.github.io/)
+* [Abhishek Singh](https://abhixphys.github.io/)
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Daniel Teixeira](https://weak-equivalent.github.io/)
 * [Fernando Abellán](https://fernandoabellan.de/)
