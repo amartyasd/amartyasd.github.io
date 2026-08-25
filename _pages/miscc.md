@@ -38,6 +38,7 @@ redirect_from:
 * [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
 * [Matthew Nimiero](https://niemiro.dev/)
 * [Mattie Ji](https://github.com/maroon-scorch)
+* [Michael Janou Glaeser](https://sites.google.com/view/chanu-math)
 * [Pritipriya Dasbehera](https://pritipriya-dasbehera.github.io/)
 * [Siddharth Gurumuthy](https://siddharth64.github.io/)
 * [Torgeir Aambø](https://torgeiraamboe.github.io/)
