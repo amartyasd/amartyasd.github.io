@@ -33,6 +33,7 @@ redirect_from:
 * [Daniel Teixeira](https://weak-equivalent.github.io/)
 * [Fernando Abellán](https://fernandoabellan.de/)
 * [Gaurav Shukla](https://planethuntertess11.wixsite.com/my-site)
+* [Giovanni Rossanigo](https://giovannirossanigo.github.io/)
 * [Grigory Solomadin](https://sites.google.com/view/solomadins-homepage)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Leon Liu](https://leon2k2k2k.github.io/)
