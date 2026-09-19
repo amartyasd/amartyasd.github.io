@@ -37,7 +37,7 @@ redirect_from:
 * [Grigory Solomadin](https://sites.google.com/view/solomadins-homepage)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
 * [Leon Liu](https://leon2k2k2k.github.io/)
-* [Luuk Stehouwer](https://sites.google.com/view/luuk-stehouwer)
+* [Luuk Stehouwer](https://luukstehouwer.com/)
 * [Matthew Nimiero](https://niemiro.dev/)
 * [Mattie Ji](https://github.com/maroon-scorch)
 * [Michael Janou Glaeser](https://sites.google.com/view/chanu-math)
