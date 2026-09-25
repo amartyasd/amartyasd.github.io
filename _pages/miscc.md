@@ -29,6 +29,7 @@ redirect_from:
 
 * [A Rameswar Patro](https://arameswar-patro.github.io/)
 * [Abhishek Singh](https://abhixphys.github.io/)
+* [Alexander Zahrer](https://alexanderzahrer.github.io/maths/)
 * [Aman Gupta](https://shadow-monrc.github.io/#home)
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Daniel Teixeira](https://weak-equivalent.github.io/)
