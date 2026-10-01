@@ -30,6 +30,9 @@ My view of Mathematics is broad, and I'm always open to ideas and themes from un
 
 Aside from my primary preoccupations and interests, I'm also interested in Music, philosophy and, to some extent, Linguistics.
 
+
+<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/eisenbud.jpg" width=120 height=182 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be David Eisenbud's <b><i>Commutative Algebra with a view towards Algebraic Geometry</i></b>.</p><p>I am an attempt to write on commutative algebra in a way that includes the geometric ideas that played a great role in its formation; with a view, in short, towards Algebraic Geometry. I cover the material that graduate students studying Algebraic Geometry - and in particular those  studying the book Algebraic Geometry by Robin Hartshorne - should know.  The reader should have had one year of basic graduate algebra. </p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>
+
 NOTE: I recently updated everything you see above. Thanks for stopping by. The stuff below, maybe later :P 
 
 ## Some stuff I'm currently reading or skimming, some of which I'm interested in finding time and energy to read. This is not exhaustive and in no order.
