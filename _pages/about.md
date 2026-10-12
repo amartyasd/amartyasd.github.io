@@ -18,23 +18,20 @@ redirect_from:
   <em>Miss You Bims!!</em>
 </div>
 
-I am an upcoming PhD student at the Norwegian University of Science and Technology, where I will be working with [Drew Heard](https://drewkh.folk.ntnu.no/). Before that, I was an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. I wrote my Master's Thesis with [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/), with Lennart being my formal advisor.
+I am a PhD student at the Norwegian University of Science and Technology, where I am working with [Drew Heard](https://drewkh.folk.ntnu.no/). Before that, I was an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. I wrote my Master's Thesis with [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/), with Lennart being my formal advisor.
 
-I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectral algebraic geometry, higher category theory, and topological aspects of physics. My Master's thesis revolves around higher Topological Jacobi form computations à la Meier. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, towards a synthetic classification of algebraic Landweber-exact equivariant motivic spectra, and higher chromatic height cardinality computations in Ambidexterity.
+I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectral algebraic geometry, higher category theory, and topological aspects of physics. My Master's thesis revolved around higher Topological Jacobi form computations à la Meier. Given the current AI scoopocalypse, I don't wish to talk about stuff I am working on right now. If you're curious, feel free to reach out.
 <div style="float: right; width: 250px; margin-left: 1em; text-align: right;">
   <img src="/images/Boson_pic.jpg" style="width: 100%;" alt="Boson">
   <br>
   <em>Boson posing for a pic!! Nonchalant as always ¯\_(ツ)_/¯</em>
 </div>
-I also take an interest in  Real Syntomic Cohomology. In the past, I have organised seminars on Higher Categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF and Stefanich-Tannaka duality for Geometric Stacks. In the past, I've worked on proving the folklore theorem of Bass-May-Weibel of the group-completion of tensor K-theory being the rationalisation of algebraic K theory of R; this was joint work with Mattie Ji. 
-
-
-I also worked on a Cisinski-Moerdijk-Weiss model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, and on Freed-Hopkins theory and HoTT semantics.
+ In the past, I have organised seminars on higher categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF, and Stefanich-Tannaka duality for Geometric Stacks. In the past, I've worked on proving the folklore theorem of Bass-May-Weibel that the group completion of tensor K-theory is the rationalisation of the algebraic K-theory of R; this was joint work with Mattie Ji. I also worked on a Cisinski-Moerdijk-Weiss model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, and on Freed-Hopkins theory and HoTT semantics.
 
 My view of Mathematics is broad, and I'm always open to ideas and themes from unknown depths in the unfathomable ocean of Mathematics. I believe, after all, there are infinitely many things in the mathematical universe to pursue.
 
 
-Aside from my primary preoccupations and interests, I'm also interested in Music, philosophy and, to some extent, Linguistics.
+Besides my primary preoccupations and interests, I'm also interested in Music, philosophy and North Germanic and East Slavic languages. I also hike and do dirt-biking often.
 
 
 <table><tr><td><img src="/images/eisenbud.webp" width=120 height=182 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be David Eisenbud's <b><i>Commutative Algebra with a view towards Algebraic Geometry</i></b>.</p><p>I am an attempt to write on commutative algebra in a way that includes the geometric ideas that played a great role in its formation; with a view, in short, towards Algebraic Geometry. I cover the material that graduate students studying Algebraic Geometry - and in particular those  studying the book Algebraic Geometry by Robin Hartshorne - should know.  The reader should have had one year of basic graduate algebra. </p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>
