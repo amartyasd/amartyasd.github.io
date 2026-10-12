@@ -13,7 +13,7 @@ redirect_from:
 
 
 <div style="float: left; width: 200px; margin-right: 1em; text-align: left;">
-  <img src="/images/recentpic.jpg" style="width: 100%;" alt="Boson">
+  <img src="/images/recentpic.jpg" style="width: 100%;" alt="RecentPic">
   <br>
   <em>Miss You Bims!!</em>
 </div>
@@ -24,15 +24,11 @@ I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectra
 
 I also take an interest in  Real Syntomic Cohomology. In the past, I have organised seminars on Higher Categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF and Stefanich-Tannaka duality for Geometric Stacks. In the past, I've worked on proving the folklore theorem of Bass-May-Weibel of the group-completion of tensor K-theory being the rationalisation of algebraic K theory of R; this was joint work with Mattie Ji. 
 
-<table align="right">
-<tr>
-<td width="200">
-<img src="/images//Boson_pic.jpg" width="200" alt="Boson"><br>
-<em>Boson posing for a pic!!</em>
-<em>  Nonchalant as always ¯\_(ツ)_/¯</em>
-</td>
-</tr>
-</table>
+<div style="float: right; width: 200px; margin-left: 1em; text-align: right;">
+  <img src="/images/Boson_pic.jpg" style="width: 100%;" alt="Boson">
+  <br>
+  <em>Boson posing for a pic!! Nonchalant as always ¯\_(ツ)_/¯</em>
+</div>
 I also worked on a Cisinski-Moerdijk-Weiss model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, and on Freed-Hopkins theory and HoTT semantics.
 
 My view of Mathematics is broad, and I'm always open to ideas and themes from unknown depths in the unfathomable ocean of Mathematics. I believe, after all, there are infinitely many things in the mathematical universe to pursue.
