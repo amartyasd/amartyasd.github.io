@@ -46,3 +46,4 @@
   margin-left: 1em; /* Adds space between image and text */
   width: 200px;     /* Ensures caption wraps to image width */
 }
+div[style*="float: left"] { display: block; }
