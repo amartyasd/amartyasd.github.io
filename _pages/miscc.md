@@ -76,7 +76,6 @@ Poetry and Philosophy
 ======
 
 * [Boris Ryzhy's poetry](https://borisryzhy.com/POEMS): I keep visiting his once in a while.
-* I read a lot of philosophy when I get time.
 * [List of books by Dostoyevsky, with downloadable links](https://www.gutenberg.org/ebooks/author/314)) 
 
 
@@ -90,11 +89,12 @@ Art
 Movies
 ======
 
-* I am an admirer of Andrei Tarkovsky's work in cinema, and have watched almost all his movies. Other influential people include Béla Tarr, Sergei Parajanov, Elem Klimov and David Lynch.
+* I am an admirer of Andrei Tarkovsky's work in cinema, and have watched almost all his movies. Other influential people include Béla Tarr, Kaljo Kiisk, Sergei Parajanov, Elem Klimov, Konstantin Lopushansky, Robert Eggers and David Lynch.
+* From other genres, I love works of Aleksei Balabanov and Shinya Tsukamoto.
 
 
 Music
 ======
 
-* I play the guitar and the bass mostly. I am a combination of a grungehead, punkhead and alternative/nu-metalhead. Some of my fav bands and artists, in no particular order, are Alice in Chains, Soundgarden, Nirvana, Pearl Jam, Local H, Audioslave, Slipknot, Staind, SuperHeavven, Breaking Benjamin, Three Day Grace, Bush, Foo Fighters,  Starset, Green Day, Linkin Park, Limp Bizkit, My Chemical Romance, Deftones, Три дня дождя, Teni Svobody, Lumen, Kino, Порнофильмы, Papa Roach, Sum 41, The Offspring, Bloodywood, Rise Against, Alkaline Trio, Radiohead, Eurotripp, The Clockworks, Ashes Remain and TOOL. 
+* I play the guitar and the bass mostly. I am a grungehead, punkhead and alternative-metalhead. Some of my favourite bands and artists, in no particular order, are Alice in Chains, Soundgarden, Nirvana, Pearl Jam, Local H, Audioslave, Slipknot, Staind, SuperHeavven, Breaking Benjamin, Three Day Grace, Bush, Foo Fighters,  Starset, Green Day, Linkin Park, Limp Bizkit, My Chemical Romance, Deftones, Три дня дождя, Teni Svobody, Lumen, Kino and Viktor Tsoi, Nautilus Pompilius, Порнофильмы, Papa Roach, Sum 41, The Offspring, Rise Against, Alkaline Trio, Radiohead, Eurotripp, The Clockworks, Ashes Remain and TOOL. 
 
