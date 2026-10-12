@@ -13,7 +13,7 @@ redirect_from:
 
 
 <div style="float: left; width: 200px; margin-right: 1em; text-align: left;">
-  <img src="/images/Boson_pic.jpg" style="width: 100%;" alt="Boson">
+  <img src="/images/recentpic.jpg" style="width: 100%;" alt="Boson">
   <br>
   <em>Miss You Bims!!</em>
 </div>
