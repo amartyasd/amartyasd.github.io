@@ -41,18 +41,8 @@
 @import "print";
 
 
-figure.align-right {
+.align-right {
   float: right;
-  margin: 0 0 1em 1em;
-  max-width: 200px;
-  display: block;
-  border: none;
-  padding: 0;
-  background: none;
-}
-
-figure.align-right figcaption {
-  text-align: right;
-  font-style: italic;
-  font-size: 0.9em;
+  margin-left: 1em;
+  width: 200px;
 }
