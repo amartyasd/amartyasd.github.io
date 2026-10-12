@@ -14,14 +14,13 @@ redirect_from:
 
 
 <table align="right">
-  <tr><td><img src="/images/recentpic.jpg" width="200px" alt="Recentpic"/></td></tr>
-  <tr><td align="center"><em>Miss You Bims!!</em></td></tr>
+<tr>
+<td width="200">
+<img src="/images/recentpic.jpg" width="200" alt="RecentPic"><br>
+<em>Miss You Bims!!</em>
+</td>
+</tr>
 </table>
-
-
-
-
-
 I am an upcoming PhD student at the Norwegian University of Science and Technology, where I will be working with [Drew Heard](https://drewkh.folk.ntnu.no/). Before that, I was an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. I wrote my Master's Thesis with [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/), with Lennart being my formal advisor.
 
 I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectral algebraic geometry, higher category theory, and topological aspects of physics. My Master's thesis revolves around higher Topological Jacobi form computations à la Meier. Apart from that, I am also involved in constructing motivic models of cyclotomic synthetic spectra, towards a synthetic classification of algebraic Landweber-exact equivariant motivic spectra, and higher chromatic height cardinality computations in Ambidexterity.
@@ -29,9 +28,14 @@ I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectra
 I also take an interest in  Real Syntomic Cohomology. In the past, I have organised seminars on Higher Categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF and Stefanich-Tannaka duality for Geometric Stacks. In the past, I've worked on proving the folklore theorem of Bass-May-Weibel of the group-completion of tensor K-theory being the rationalisation of algebraic K theory of R; this was joint work with Mattie Ji. 
 
 <table align="right">
-  <tr><td><img src="/images/Boson_pic.jpg" width="200px" alt="Boson"/></td></tr>
-  <tr><td align="center"><em>Boson posing for a pic.</em></td></tr>
-  <tr><td align="center">Nonchalant as always ¯\_(ツ)_/¯</table></em></td></tr>
+<tr>
+<td width="200">
+<img src="/images//Boson_pic.jpg" width="200" alt="Boson"><br>
+<em>Boson posing for a pic!!</em>
+<em>  Nonchalant as always ¯\_(ツ)_/¯</em>
+</td>
+</tr>
+</table>
 I also worked on a Cisinski-Moerdijk-Weiss model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, and on Freed-Hopkins theory and HoTT semantics.
 
 My view of Mathematics is broad, and I'm always open to ideas and themes from unknown depths in the unfathomable ocean of Mathematics. I believe, after all, there are infinitely many things in the mathematical universe to pursue.
