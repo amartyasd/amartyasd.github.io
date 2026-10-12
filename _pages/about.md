@@ -20,16 +20,15 @@ redirect_from:
 
 I am a PhD student at the Norwegian University of Science and Technology, where I am working with [Drew Heard](https://drewkh.folk.ntnu.no/). Before that, I was an Integrated Master's student at the National Institute of Science Education and Research, Homi Bhabha National Institute, Bhubaneswar, India. I wrote my Master's Thesis with [Chitrabhanu Chaudhuri](https://www.niser.ac.in/~chitrabhanu/) and [Lennart Meier](https://webspace.science.uu.nl/~meier007/), with Lennart being my formal advisor.
 
-I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectral algebraic geometry, higher category theory, and topological aspects of physics. My Master's thesis revolved around higher Topological Jacobi form computations à la Meier. Given the current AI scoopocalypse, I don't wish to talk about stuff I am working on right now. If you're curious, feel free to reach out.
+I work in chromatic/motivic homotopy theory, algebraic K-theory, derived/spectral algebraic geometry, higher category theory, and topological aspects of physics. My Master's thesis revolved around higher Topological Jacobi form computations à la Meier. Given the current AI scoopocalypse, I don't wish to talk about specific projects I am working on right now. It's mostly things in the areas I work on. If you're curious, feel free to reach out.
 <div style="float: right; width: 250px; margin-left: 1em; text-align: right;">
   <img src="/images/Boson_pic.jpg" style="width: 100%;" alt="Boson">
   <br>
   <em>Boson posing for a pic!! Nonchalant as always ¯\_(ツ)_/¯</em>
 </div>
- In the past, I have organised seminars on higher categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF, and Stefanich-Tannaka duality for Geometric Stacks. In the past, I've worked on proving the folklore theorem of Bass-May-Weibel that the group completion of tensor K-theory is the rationalisation of the algebraic K-theory of R; this was joint work with Mattie Ji. I also worked on a Cisinski-Moerdijk-Weiss model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have some experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, and on Freed-Hopkins theory and HoTT semantics.
+ In the past, I have organised seminars on higher categories, Burklund-Yuan-Schlank's Chromatic Nullstellensatz, Equivariant TMF, and Stefanich-Tannaka duality for Geometric Stacks. In the past, I've worked on proving the folklore theorem of Bass-May-Weibel that the group completion of tensor K-theory is the rationalisation of the algebraic K-theory of R; this was joint work with Mattie Ji. I also worked on a Cisinski-Moerdijk-Weiss model for k-restricted unital infinity operads in the past, which was joint work with Yu Leon Liu. Apart from that, I also have experience working on the general Mahowald-Ravenel redshift phenomena of the Mahowald invariant, on Freed-Hopkins theory and on HoTT semantics.
 
-My view of Mathematics is broad, and I'm always open to ideas and themes from unknown depths in the unfathomable ocean of Mathematics. I believe, after all, there are infinitely many things in the mathematical universe to pursue.
-
+I'm a firm believer in seeing math as the rising sea and the fact that there is an endless supply of problems in this sea. 
 
 Besides my primary preoccupations and interests, I'm also interested in Music, philosophy and North Germanic and East Slavic languages. I also hike and do dirt-biking often.
 
