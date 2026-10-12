@@ -43,6 +43,6 @@
 
 .align-right {
   float: right;
-  margin-left: 1em;
-  width: 200px;
+  margin-left: 1em; /* Adds space between image and text */
+  width: 200px;     /* Ensures caption wraps to image width */
 }
