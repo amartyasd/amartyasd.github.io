@@ -313,3 +313,54 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+/* ==========================================================================
+   THEME OVERRIDES — applied last so they win
+   ========================================================================== */
+
+body {
+  background-color: $background-color !important;
+  color: $text-color !important;
+}
+
+.page,
+.page__content,
+.page__inner-wrap {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $text-color;
+}
+
+a {
+  color: $link-color;
+
+  &:hover,
+  &:focus {
+    color: $link-color-hover;
+  }
+
+  &:visited {
+    color: $link-color-visited;
+  }
+}
+
+hr {
+  border-top-color: $border-color;
+}
+
+blockquote {
+  border-left-color: $primary-color;
+  color: $text-color;
+}
+
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code {
+  background: $code-background-color;
+  border-color: $border-color;
+  color: $text-color;
+}
