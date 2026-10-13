@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amartya "
+title                    : "Amartya"
 title_separator          : "-"
 name                     : &name "Amartya"
-description              : &description "Undergraduate Student at NISER"
+description              : &description "PhD Student at NTNU"
 url                      : https://amartyasd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amartyasd.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -86,7 +86,7 @@ author:
   location         : "Planet Earth"
   employer         : "NTNU, Trondheim"
   googlescholar    :
-  email            :  amartyashekhar.dubey@niser.ac.in
+  email            :  ashd577@aol.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -163,7 +163,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  math_engine: 
+  math_engine: mathjax
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Oslo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
