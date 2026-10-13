@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+site_theme               : "contrast"
 locale                   : "en-US"
 title                    : "Amartya"
 title_separator          : "-"
@@ -28,8 +29,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-  	site_theme           : "contrast"
+    num_posts            : # 5 (default)  	
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
