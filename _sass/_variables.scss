@@ -28,10 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
-
+$global-font-family         : $serif;
+$header-font-family         : $serif;
+$caption-font-family        : $sans-serif;
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px
@@ -44,27 +43,27 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors (dark theme)
+   Colors
    ========================================================================== */
 
 $gray                       : #7a8288;
-$dark-gray                  : mix(#fff, $gray, 70%);
-$darker-gray                : mix(#fff, $gray, 85%);
-$light-gray                 : mix(#000, $gray, 50%);
-$lighter-gray               : mix(#000, $gray, 75%);
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #1a1d21;
-$background-color           : #1a1d21;
-$code-background-color      : #24282e;
-$code-background-color-dark : #2b3038;
-$text-color                 : #d6d9dd;
-$border-color               : #33383f;
+$body-color                 : #faf6ef;
+$background-color           : #faf6ef;
+$code-background-color      : #f0ebdf;
+$code-background-color-dark : #e6dfd0;
+$text-color                 : #3a352c;
+$border-color               : #e0d8c6;
 
-$primary-color              : #7ab8d4;
+$primary-color              : #b06a3b;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #7ab8d4;
+$info-color                 : #b06a3b;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +89,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #7ab8d4;
-$link-color-hover           : mix(#fff, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 15%);
-$masthead-link-color        : #d6d9dd;
-$masthead-link-color-hover  : #7ab8d4;
+$link-color                 : #8b4a1f;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#000, $link-color, 15%);
+$masthead-link-color        : #3a352c;
+$masthead-link-color-hover  : #b06a3b;
 
 
 /*
