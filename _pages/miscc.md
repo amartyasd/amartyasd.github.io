@@ -38,6 +38,7 @@ redirect_from:
 * [Giovanni Rossanigo](https://giovannirossanigo.github.io/)
 * [Grigory Solomadin](https://sites.google.com/view/solomadins-homepage)
 * [Grigory Taroyan](https://www.grishataroyan.org/home)
+* [Laurent Smits](https://sites.google.com/view/laurent-smits/startseite)
 * [Leon Liu](https://leon2k2k2k.github.io/)
 * [Luuk Stehouwer](https://luukstehouwer.com/)
 * [Matthew Nimiero](https://niemiro.dev/)
