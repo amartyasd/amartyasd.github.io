@@ -57,7 +57,7 @@ redirect_from:
 
 
 
-Some general math and other useful Links
+Some general math Links
 ======
 
 * [nLab](https://ncatlab.org/nlab/show/HomePage)
@@ -67,7 +67,7 @@ Some general math and other useful Links
 * [Mark Hovey's Problem List](https://www-users.cse.umn.edu/~tlawson/hovey/)
 * [Doug Ravenel's archives](https://people.math.rochester.edu/faculty/doug/papers.html)
 * [Torgeir's Blog](https://torgeiraamboe.github.io/posts/)
-* [Adams charts](https://s.wayne.edu/isaksen/adams-charts/):  If you're me, you visit this too often.
+* [Adams charts](https://s.wayne.edu/isaksen/adams-charts/)
 * Website for the Young Homotopy Theorists seminar [YoungHom](https://younghomseminar.github.io/) 
 
 
