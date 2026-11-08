@@ -31,6 +31,7 @@ redirect_from:
 * [Abhishek Singh](https://abhixphys.github.io/)
 * [Alexander Zahrer](https://alexanderzahrer.github.io/maths/)
 * [Aman Gupta](https://shadow-monrc.github.io/#home)
+* [Andrew Soto](https://sites.google.com/view/andrewjsotolevins)
 * [Apratim Choudhury](https://sites.google.com/view/apratims-homepage/home)
 * [Daniel Teixeira](https://weak-equivalent.github.io/)
 * [Fernando Abellán](https://fernandoabellan.de/)
