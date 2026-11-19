@@ -47,6 +47,7 @@ redirect_from:
 * [Michael Janou Glaeser](https://sites.google.com/view/chanu-math)
 * [Pritipriya Dasbehera](https://pritipriya-dasbehera.github.io/)
 * [Siddharth Gurumuthy](https://siddharth64.github.io/)
+* [Swaminathan Rajagopalan](https://swami987.github.io/Website/)
 * [Torgeir Aambø](https://torgeiraamboe.github.io/)
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [W. Sebastian Gant](https://personal.math.ubc.ca/~wsgant/)
